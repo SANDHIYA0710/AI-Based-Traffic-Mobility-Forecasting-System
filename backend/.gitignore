@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# Environment secrets
+.env
+
+# Runtime data / generated artifacts
+uploads/*
+!uploads/.gitkeep
+logs/*
+!logs/.gitkeep
+reports/*
+!reports/.gitkeep
+trained_models/*
+!trained_models/.gitkeep
+*.db
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db

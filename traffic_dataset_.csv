@@ -1,0 +1,2161 @@
+timestamp,route_id,route_code,start_location,end_location,distance_km,city,vehicle_count,average_speed,congestion_level,weather,temperature,rainfall
+2026-06-01 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,53,69,Low,Sunny,33,0
+2026-06-01 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,32,63,Low,Cloudy,28,0
+2026-06-01 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,71,54,Low,Sunny,27,0
+2026-06-01 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,77,52,Low,Cloudy,29,0
+2026-06-01 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,76,57,Low,Rainy,38,5
+2026-06-01 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,31,52,Low,Rainy,24,6
+2026-06-01 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,57,57,Low,Rainy,31,8
+2026-06-01 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,207,19,High,Sunny,30,0
+2026-06-01 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,270,21,High,Rainy,26,19
+2026-06-01 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,269,22,High,Sunny,36,0
+2026-06-01 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,311,21,High,Cloudy,32,0
+2026-06-01 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,126,36,Medium,Cloudy,29,0
+2026-06-01 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,111,38,Medium,Cloudy,26,0
+2026-06-01 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,141,37,Medium,Rainy,24,5
+2026-06-01 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,159,39,Medium,Cloudy,35,0
+2026-06-01 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,137,35,Medium,Sunny,32,0
+2026-06-01 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,112,39,Medium,Rainy,34,13
+2026-06-01 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,285,31,High,Rainy,24,9
+2026-06-01 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,230,19,High,Cloudy,36,0
+2026-06-01 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,191,22,High,Rainy,29,8
+2026-06-01 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,291,31,High,Rainy,27,17
+2026-06-01 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,85,62,Low,Sunny,29,0
+2026-06-01 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,48,53,Low,Sunny,34,0
+2026-06-01 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,53,56,Low,Rainy,32,12
+2026-06-02 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,53,59,Low,Rainy,38,5
+2026-06-02 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,76,62,Low,Rainy,34,12
+2026-06-02 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,42,50,Low,Rainy,25,3
+2026-06-02 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,75,55,Low,Sunny,35,0
+2026-06-02 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,80,67,Low,Rainy,31,4
+2026-06-02 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,43,60,Low,Cloudy,26,0
+2026-06-02 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,42,50,Low,Cloudy,27,0
+2026-06-02 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,244,28,High,Rainy,32,5
+2026-06-02 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,215,20,High,Cloudy,27,0
+2026-06-02 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,227,35,High,Cloudy,34,0
+2026-06-02 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,308,32,High,Cloudy,38,0
+2026-06-02 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,130,44,Medium,Sunny,26,0
+2026-06-02 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,150,39,Medium,Cloudy,30,0
+2026-06-02 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,140,49,Medium,Rainy,37,5
+2026-06-02 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,116,36,Medium,Cloudy,26,0
+2026-06-02 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,166,37,Medium,Cloudy,31,0
+2026-06-02 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,157,45,Medium,Rainy,26,4
+2026-06-02 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,214,19,High,Sunny,29,0
+2026-06-02 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,195,28,High,Rainy,36,2
+2026-06-02 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,214,28,High,Rainy,25,20
+2026-06-02 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,312,27,High,Sunny,29,0
+2026-06-02 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,42,66,Low,Cloudy,37,0
+2026-06-02 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,89,63,Low,Sunny,27,0
+2026-06-02 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,37,67,Low,Sunny,37,0
+2026-06-03 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,37,52,Low,Rainy,33,18
+2026-06-03 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,31,60,Low,Cloudy,27,0
+2026-06-03 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,53,57,Low,Rainy,32,2
+2026-06-03 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,69,60,Low,Sunny,24,0
+2026-06-03 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,54,52,Low,Sunny,30,0
+2026-06-03 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,60,69,Low,Sunny,31,0
+2026-06-03 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,41,53,Low,Rainy,24,17
+2026-06-03 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,260,35,High,Sunny,35,0
+2026-06-03 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,194,18,High,Sunny,24,0
+2026-06-03 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,217,26,High,Sunny,28,0
+2026-06-03 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,238,19,High,Rainy,30,13
+2026-06-03 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,123,40,Medium,Rainy,35,16
+2026-06-03 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,104,45,Medium,Sunny,24,0
+2026-06-03 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,165,50,Medium,Rainy,30,20
+2026-06-03 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,162,44,Medium,Cloudy,27,0
+2026-06-03 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,138,41,Medium,Sunny,34,0
+2026-06-03 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,100,37,Medium,Sunny,25,0
+2026-06-03 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,226,33,High,Cloudy,32,0
+2026-06-03 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,255,32,High,Sunny,30,0
+2026-06-03 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,254,26,High,Sunny,33,0
+2026-06-03 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,215,35,High,Cloudy,38,0
+2026-06-03 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,40,67,Low,Sunny,25,0
+2026-06-03 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,40,66,Low,Sunny,36,0
+2026-06-03 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,80,53,Low,Cloudy,27,0
+2026-06-04 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,41,61,Low,Cloudy,38,0
+2026-06-04 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,51,54,Low,Rainy,32,15
+2026-06-04 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,82,59,Low,Cloudy,26,0
+2026-06-04 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,32,58,Low,Cloudy,37,0
+2026-06-04 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,53,52,Low,Cloudy,26,0
+2026-06-04 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,30,66,Low,Cloudy,30,0
+2026-06-04 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,71,62,Low,Rainy,32,18
+2026-06-04 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,183,22,High,Cloudy,31,0
+2026-06-04 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,294,33,High,Sunny,26,0
+2026-06-04 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,301,25,High,Sunny,30,0
+2026-06-04 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,289,19,High,Sunny,38,0
+2026-06-04 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,111,50,Medium,Sunny,24,0
+2026-06-04 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,119,48,Medium,Rainy,28,19
+2026-06-04 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,104,43,Medium,Cloudy,25,0
+2026-06-04 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,121,35,Medium,Cloudy,38,0
+2026-06-04 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,174,35,Medium,Sunny,36,0
+2026-06-04 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,130,47,Medium,Sunny,30,0
+2026-06-04 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,259,27,High,Rainy,24,1
+2026-06-04 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,246,19,High,Rainy,36,14
+2026-06-04 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,209,30,High,Rainy,29,9
+2026-06-04 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,253,27,High,Rainy,31,12
+2026-06-04 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,51,58,Low,Cloudy,37,0
+2026-06-04 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,52,64,Low,Sunny,38,0
+2026-06-04 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,70,62,Low,Sunny,33,0
+2026-06-05 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,76,61,Low,Rainy,37,10
+2026-06-05 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,56,62,Low,Sunny,26,0
+2026-06-05 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,36,68,Low,Rainy,29,11
+2026-06-05 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,49,57,Low,Sunny,31,0
+2026-06-05 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,37,57,Low,Cloudy,38,0
+2026-06-05 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,41,57,Low,Sunny,29,0
+2026-06-05 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,86,60,Low,Cloudy,37,0
+2026-06-05 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,285,31,High,Rainy,24,1
+2026-06-05 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,310,19,High,Rainy,37,20
+2026-06-05 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,238,26,High,Cloudy,34,0
+2026-06-05 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,318,29,High,Rainy,27,4
+2026-06-05 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,173,48,Medium,Sunny,37,0
+2026-06-05 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,151,44,Medium,Cloudy,30,0
+2026-06-05 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,149,44,Medium,Rainy,24,17
+2026-06-05 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,119,47,Medium,Cloudy,30,0
+2026-06-05 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,119,47,Medium,Rainy,30,11
+2026-06-05 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,114,38,Medium,Rainy,36,6
+2026-06-05 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,289,20,High,Rainy,37,13
+2026-06-05 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,265,21,High,Rainy,38,5
+2026-06-05 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,243,19,High,Cloudy,26,0
+2026-06-05 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,263,26,High,Cloudy,28,0
+2026-06-05 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,36,66,Low,Cloudy,31,0
+2026-06-05 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,69,67,Low,Sunny,37,0
+2026-06-05 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,59,57,Low,Cloudy,36,0
+2026-06-06 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,49,64,Low,Sunny,30,0
+2026-06-06 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,48,57,Low,Rainy,35,12
+2026-06-06 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,59,58,Low,Cloudy,28,0
+2026-06-06 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,35,66,Low,Cloudy,35,0
+2026-06-06 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,74,54,Low,Rainy,26,9
+2026-06-06 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,77,64,Low,Rainy,37,6
+2026-06-06 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,62,66,Low,Sunny,31,0
+2026-06-06 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,203,22,High,Rainy,28,16
+2026-06-06 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,204,20,High,Cloudy,34,0
+2026-06-06 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,251,19,High,Sunny,28,0
+2026-06-06 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,278,28,High,Sunny,24,0
+2026-06-06 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,171,43,Medium,Rainy,28,20
+2026-06-06 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,165,44,Medium,Rainy,34,16
+2026-06-06 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,164,44,Medium,Sunny,33,0
+2026-06-06 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,171,40,Medium,Rainy,37,19
+2026-06-06 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,112,36,Medium,Cloudy,29,0
+2026-06-06 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,172,35,Medium,Cloudy,32,0
+2026-06-06 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,246,24,High,Sunny,34,0
+2026-06-06 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,210,33,High,Cloudy,38,0
+2026-06-06 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,193,33,High,Sunny,36,0
+2026-06-06 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,222,24,High,Cloudy,26,0
+2026-06-06 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,48,56,Low,Rainy,37,17
+2026-06-06 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,85,58,Low,Sunny,24,0
+2026-06-06 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,49,68,Low,Cloudy,25,0
+2026-06-07 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,30,50,Low,Cloudy,37,0
+2026-06-07 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,55,62,Low,Rainy,32,18
+2026-06-07 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,87,51,Low,Cloudy,32,0
+2026-06-07 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,47,61,Low,Cloudy,25,0
+2026-06-07 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,71,52,Low,Sunny,36,0
+2026-06-07 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,61,63,Low,Sunny,29,0
+2026-06-07 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,78,54,Low,Cloudy,28,0
+2026-06-07 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,195,23,High,Cloudy,25,0
+2026-06-07 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,185,34,High,Sunny,28,0
+2026-06-07 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,226,28,High,Sunny,31,0
+2026-06-07 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,264,26,High,Rainy,35,8
+2026-06-07 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,126,46,Medium,Cloudy,25,0
+2026-06-07 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,115,36,Medium,Sunny,24,0
+2026-06-07 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,123,40,Medium,Sunny,28,0
+2026-06-07 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,172,37,Medium,Sunny,25,0
+2026-06-07 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,144,47,Medium,Cloudy,33,0
+2026-06-07 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,119,49,Medium,Cloudy,37,0
+2026-06-07 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,221,18,High,Cloudy,27,0
+2026-06-07 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,250,35,High,Cloudy,30,0
+2026-06-07 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,317,18,High,Rainy,33,10
+2026-06-07 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,182,30,High,Rainy,24,19
+2026-06-07 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,37,58,Low,Cloudy,31,0
+2026-06-07 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,86,60,Low,Sunny,25,0
+2026-06-07 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,33,61,Low,Sunny,27,0
+2026-06-08 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,61,63,Low,Rainy,24,9
+2026-06-08 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,83,68,Low,Rainy,28,7
+2026-06-08 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,30,54,Low,Sunny,37,0
+2026-06-08 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,42,66,Low,Cloudy,25,0
+2026-06-08 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,81,69,Low,Rainy,33,2
+2026-06-08 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,31,64,Low,Rainy,29,20
+2026-06-08 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,51,67,Low,Rainy,37,6
+2026-06-08 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,280,33,High,Cloudy,28,0
+2026-06-08 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,200,19,High,Cloudy,31,0
+2026-06-08 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,283,22,High,Sunny,26,0
+2026-06-08 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,300,27,High,Cloudy,35,0
+2026-06-08 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,138,39,Medium,Cloudy,36,0
+2026-06-08 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,138,36,Medium,Cloudy,35,0
+2026-06-08 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,112,45,Medium,Rainy,38,10
+2026-06-08 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,126,43,Medium,Rainy,35,14
+2026-06-08 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,170,37,Medium,Cloudy,29,0
+2026-06-08 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,175,41,Medium,Cloudy,24,0
+2026-06-08 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,320,32,High,Sunny,34,0
+2026-06-08 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,296,20,High,Rainy,29,15
+2026-06-08 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,312,23,High,Sunny,33,0
+2026-06-08 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,229,29,High,Cloudy,25,0
+2026-06-08 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,52,50,Low,Cloudy,29,0
+2026-06-08 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,57,59,Low,Sunny,27,0
+2026-06-08 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,84,60,Low,Cloudy,29,0
+2026-06-09 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,74,59,Low,Rainy,37,13
+2026-06-09 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,55,68,Low,Sunny,35,0
+2026-06-09 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,64,51,Low,Sunny,38,0
+2026-06-09 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,53,54,Low,Cloudy,35,0
+2026-06-09 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,74,63,Low,Cloudy,29,0
+2026-06-09 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,37,54,Low,Sunny,27,0
+2026-06-09 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,61,63,Low,Cloudy,31,0
+2026-06-09 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,277,35,High,Cloudy,27,0
+2026-06-09 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,244,19,High,Sunny,26,0
+2026-06-09 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,222,19,High,Sunny,34,0
+2026-06-09 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,247,18,High,Sunny,31,0
+2026-06-09 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,158,45,Medium,Rainy,37,5
+2026-06-09 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,176,43,Medium,Rainy,29,4
+2026-06-09 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,117,37,Medium,Rainy,32,12
+2026-06-09 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,160,46,Medium,Cloudy,37,0
+2026-06-09 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,160,35,Medium,Cloudy,28,0
+2026-06-09 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,117,50,Medium,Sunny,31,0
+2026-06-09 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,203,20,High,Cloudy,36,0
+2026-06-09 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,180,31,High,Sunny,34,0
+2026-06-09 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,282,32,High,Cloudy,24,0
+2026-06-09 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,215,22,High,Sunny,36,0
+2026-06-09 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,41,70,Low,Cloudy,29,0
+2026-06-09 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,54,70,Low,Cloudy,36,0
+2026-06-09 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,41,60,Low,Cloudy,31,0
+2026-06-10 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,35,65,Low,Rainy,27,8
+2026-06-10 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,69,66,Low,Sunny,29,0
+2026-06-10 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,75,57,Low,Sunny,26,0
+2026-06-10 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,60,55,Low,Rainy,32,7
+2026-06-10 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,54,70,Low,Sunny,37,0
+2026-06-10 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,44,68,Low,Cloudy,34,0
+2026-06-10 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,79,67,Low,Rainy,27,9
+2026-06-10 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,212,21,High,Cloudy,27,0
+2026-06-10 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,221,24,High,Sunny,24,0
+2026-06-10 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,213,19,High,Sunny,26,0
+2026-06-10 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,260,29,High,Rainy,26,6
+2026-06-10 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,149,38,Medium,Cloudy,28,0
+2026-06-10 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,157,49,Medium,Rainy,33,9
+2026-06-10 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,174,45,Medium,Sunny,32,0
+2026-06-10 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,118,45,Medium,Cloudy,36,0
+2026-06-10 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,101,41,Medium,Rainy,28,7
+2026-06-10 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,132,45,Medium,Sunny,34,0
+2026-06-10 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,187,31,High,Sunny,32,0
+2026-06-10 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,316,28,High,Cloudy,36,0
+2026-06-10 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,319,35,High,Rainy,37,9
+2026-06-10 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,243,33,High,Sunny,36,0
+2026-06-10 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,57,58,Low,Sunny,30,0
+2026-06-10 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,90,61,Low,Cloudy,27,0
+2026-06-10 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,46,57,Low,Rainy,36,10
+2026-06-11 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,37,69,Low,Rainy,34,14
+2026-06-11 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,38,62,Low,Sunny,34,0
+2026-06-11 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,78,64,Low,Rainy,35,18
+2026-06-11 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,41,52,Low,Rainy,31,6
+2026-06-11 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,38,50,Low,Sunny,28,0
+2026-06-11 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,36,67,Low,Cloudy,38,0
+2026-06-11 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,90,66,Low,Rainy,29,5
+2026-06-11 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,225,18,High,Sunny,29,0
+2026-06-11 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,286,34,High,Rainy,25,7
+2026-06-11 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,319,18,High,Rainy,32,8
+2026-06-11 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,287,25,High,Sunny,37,0
+2026-06-11 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,107,36,Medium,Sunny,33,0
+2026-06-11 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,165,42,Medium,Rainy,33,10
+2026-06-11 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,157,36,Medium,Cloudy,34,0
+2026-06-11 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,169,44,Medium,Sunny,38,0
+2026-06-11 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,149,36,Medium,Sunny,28,0
+2026-06-11 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,157,43,Medium,Sunny,28,0
+2026-06-11 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,259,26,High,Cloudy,37,0
+2026-06-11 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,304,19,High,Cloudy,32,0
+2026-06-11 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,192,22,High,Cloudy,25,0
+2026-06-11 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,266,20,High,Sunny,24,0
+2026-06-11 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,70,53,Low,Cloudy,25,0
+2026-06-11 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,40,50,Low,Rainy,37,19
+2026-06-11 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,62,50,Low,Cloudy,34,0
+2026-06-12 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,78,68,Low,Cloudy,34,0
+2026-06-12 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,32,58,Low,Sunny,26,0
+2026-06-12 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,34,54,Low,Cloudy,32,0
+2026-06-12 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,67,51,Low,Sunny,30,0
+2026-06-12 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,50,51,Low,Rainy,34,14
+2026-06-12 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,30,59,Low,Cloudy,30,0
+2026-06-12 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,57,60,Low,Cloudy,26,0
+2026-06-12 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,276,21,High,Rainy,38,15
+2026-06-12 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,247,21,High,Rainy,36,11
+2026-06-12 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,189,21,High,Cloudy,36,0
+2026-06-12 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,311,30,High,Sunny,35,0
+2026-06-12 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,172,39,Medium,Rainy,32,12
+2026-06-12 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,160,35,Medium,Rainy,34,9
+2026-06-12 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,116,46,Medium,Sunny,29,0
+2026-06-12 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,151,47,Medium,Cloudy,38,0
+2026-06-12 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,169,43,Medium,Cloudy,29,0
+2026-06-12 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,119,43,Medium,Rainy,27,16
+2026-06-12 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,268,19,High,Cloudy,30,0
+2026-06-12 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,302,26,High,Cloudy,28,0
+2026-06-12 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,203,32,High,Rainy,32,5
+2026-06-12 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,247,18,High,Rainy,33,13
+2026-06-12 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,35,65,Low,Sunny,30,0
+2026-06-12 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,34,61,Low,Cloudy,34,0
+2026-06-12 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,52,69,Low,Cloudy,31,0
+2026-06-13 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,65,54,Low,Cloudy,30,0
+2026-06-13 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,56,51,Low,Rainy,25,16
+2026-06-13 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,81,69,Low,Rainy,26,7
+2026-06-13 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,69,63,Low,Rainy,36,5
+2026-06-13 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,69,66,Low,Cloudy,29,0
+2026-06-13 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,31,60,Low,Rainy,32,13
+2026-06-13 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,76,66,Low,Cloudy,28,0
+2026-06-13 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,247,22,High,Sunny,37,0
+2026-06-13 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,311,25,High,Rainy,36,15
+2026-06-13 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,233,31,High,Cloudy,33,0
+2026-06-13 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,319,23,High,Cloudy,32,0
+2026-06-13 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,121,41,Medium,Cloudy,38,0
+2026-06-13 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,128,37,Medium,Cloudy,30,0
+2026-06-13 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,113,40,Medium,Sunny,35,0
+2026-06-13 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,166,45,Medium,Rainy,28,12
+2026-06-13 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,136,44,Medium,Rainy,37,4
+2026-06-13 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,119,42,Medium,Sunny,38,0
+2026-06-13 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,306,19,High,Rainy,31,1
+2026-06-13 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,237,19,High,Cloudy,31,0
+2026-06-13 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,193,29,High,Rainy,28,12
+2026-06-13 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,185,33,High,Cloudy,33,0
+2026-06-13 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,38,60,Low,Cloudy,26,0
+2026-06-13 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,71,52,Low,Cloudy,29,0
+2026-06-13 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,35,64,Low,Rainy,32,5
+2026-06-14 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,34,54,Low,Sunny,26,0
+2026-06-14 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,36,64,Low,Rainy,29,6
+2026-06-14 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,71,61,Low,Cloudy,33,0
+2026-06-14 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,35,62,Low,Rainy,28,1
+2026-06-14 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,33,70,Low,Cloudy,24,0
+2026-06-14 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,59,62,Low,Sunny,24,0
+2026-06-14 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,41,65,Low,Rainy,31,14
+2026-06-14 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,248,27,High,Cloudy,28,0
+2026-06-14 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,240,26,High,Rainy,26,17
+2026-06-14 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,242,35,High,Cloudy,31,0
+2026-06-14 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,277,27,High,Rainy,33,10
+2026-06-14 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,111,50,Medium,Cloudy,24,0
+2026-06-14 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,124,43,Medium,Rainy,35,16
+2026-06-14 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,174,42,Medium,Sunny,29,0
+2026-06-14 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,121,44,Medium,Rainy,37,4
+2026-06-14 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,111,36,Medium,Cloudy,34,0
+2026-06-14 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,161,46,Medium,Sunny,29,0
+2026-06-14 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,275,33,High,Sunny,24,0
+2026-06-14 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,281,33,High,Cloudy,24,0
+2026-06-14 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,230,34,High,Rainy,37,2
+2026-06-14 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,277,26,High,Sunny,35,0
+2026-06-14 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,49,53,Low,Rainy,26,17
+2026-06-14 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,48,67,Low,Cloudy,33,0
+2026-06-14 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,73,58,Low,Rainy,28,11
+2026-06-15 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,85,64,Low,Cloudy,30,0
+2026-06-15 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,51,59,Low,Sunny,35,0
+2026-06-15 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,38,68,Low,Rainy,24,16
+2026-06-15 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,86,54,Low,Sunny,26,0
+2026-06-15 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,58,56,Low,Cloudy,29,0
+2026-06-15 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,69,61,Low,Sunny,30,0
+2026-06-15 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,73,62,Low,Rainy,28,9
+2026-06-15 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,253,26,High,Sunny,36,0
+2026-06-15 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,234,23,High,Sunny,31,0
+2026-06-15 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,260,20,High,Cloudy,24,0
+2026-06-15 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,300,21,High,Rainy,37,8
+2026-06-15 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,147,43,Medium,Cloudy,33,0
+2026-06-15 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,161,38,Medium,Cloudy,26,0
+2026-06-15 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,130,40,Medium,Cloudy,32,0
+2026-06-15 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,148,36,Medium,Rainy,35,13
+2026-06-15 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,147,37,Medium,Rainy,35,3
+2026-06-15 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,150,36,Medium,Sunny,32,0
+2026-06-15 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,194,26,High,Rainy,29,15
+2026-06-15 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,305,32,High,Cloudy,26,0
+2026-06-15 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,290,22,High,Rainy,33,3
+2026-06-15 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,220,35,High,Sunny,26,0
+2026-06-15 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,58,62,Low,Rainy,36,16
+2026-06-15 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,39,55,Low,Sunny,25,0
+2026-06-15 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,82,51,Low,Sunny,27,0
+2026-06-16 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,61,63,Low,Cloudy,26,0
+2026-06-16 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,58,59,Low,Rainy,31,19
+2026-06-16 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,68,53,Low,Rainy,24,8
+2026-06-16 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,63,64,Low,Cloudy,33,0
+2026-06-16 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,86,67,Low,Rainy,27,19
+2026-06-16 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,89,66,Low,Cloudy,37,0
+2026-06-16 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,76,58,Low,Cloudy,33,0
+2026-06-16 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,233,21,High,Sunny,31,0
+2026-06-16 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,282,19,High,Rainy,28,17
+2026-06-16 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,232,18,High,Cloudy,26,0
+2026-06-16 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,238,34,High,Rainy,32,3
+2026-06-16 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,119,36,Medium,Cloudy,37,0
+2026-06-16 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,171,43,Medium,Cloudy,36,0
+2026-06-16 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,176,42,Medium,Cloudy,25,0
+2026-06-16 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,162,42,Medium,Rainy,32,13
+2026-06-16 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,130,36,Medium,Sunny,27,0
+2026-06-16 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,148,37,Medium,Cloudy,36,0
+2026-06-16 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,197,19,High,Cloudy,24,0
+2026-06-16 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,288,21,High,Cloudy,35,0
+2026-06-16 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,271,29,High,Sunny,24,0
+2026-06-16 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,242,20,High,Cloudy,34,0
+2026-06-16 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,54,64,Low,Cloudy,38,0
+2026-06-16 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,40,61,Low,Rainy,26,18
+2026-06-16 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,75,54,Low,Sunny,35,0
+2026-06-17 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,64,61,Low,Cloudy,30,0
+2026-06-17 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,87,66,Low,Cloudy,37,0
+2026-06-17 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,56,61,Low,Rainy,37,11
+2026-06-17 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,44,57,Low,Sunny,38,0
+2026-06-17 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,75,61,Low,Sunny,25,0
+2026-06-17 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,87,60,Low,Rainy,30,8
+2026-06-17 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,75,52,Low,Rainy,31,7
+2026-06-17 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,274,18,High,Sunny,30,0
+2026-06-17 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,240,27,High,Sunny,25,0
+2026-06-17 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,190,26,High,Sunny,30,0
+2026-06-17 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,230,33,High,Cloudy,32,0
+2026-06-17 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,133,48,Medium,Sunny,25,0
+2026-06-17 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,154,36,Medium,Cloudy,27,0
+2026-06-17 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,171,39,Medium,Rainy,29,3
+2026-06-17 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,136,40,Medium,Rainy,32,17
+2026-06-17 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,180,35,Medium,Rainy,26,7
+2026-06-17 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,112,45,Medium,Cloudy,29,0
+2026-06-17 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,182,31,High,Rainy,26,4
+2026-06-17 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,277,28,High,Rainy,38,19
+2026-06-17 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,296,23,High,Rainy,33,7
+2026-06-17 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,191,26,High,Cloudy,27,0
+2026-06-17 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,33,70,Low,Rainy,38,17
+2026-06-17 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,84,62,Low,Rainy,34,4
+2026-06-17 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,62,57,Low,Cloudy,25,0
+2026-06-18 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,54,58,Low,Rainy,27,4
+2026-06-18 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,82,67,Low,Rainy,34,2
+2026-06-18 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,81,56,Low,Sunny,25,0
+2026-06-18 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,42,55,Low,Cloudy,31,0
+2026-06-18 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,39,55,Low,Rainy,34,7
+2026-06-18 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,38,64,Low,Cloudy,32,0
+2026-06-18 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,36,69,Low,Cloudy,26,0
+2026-06-18 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,261,29,High,Cloudy,28,0
+2026-06-18 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,296,23,High,Rainy,37,19
+2026-06-18 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,210,22,High,Sunny,27,0
+2026-06-18 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,285,33,High,Rainy,27,12
+2026-06-18 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,142,41,Medium,Rainy,33,14
+2026-06-18 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,138,45,Medium,Sunny,32,0
+2026-06-18 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,176,37,Medium,Cloudy,29,0
+2026-06-18 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,176,37,Medium,Sunny,37,0
+2026-06-18 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,114,35,Medium,Sunny,25,0
+2026-06-18 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,145,44,Medium,Rainy,24,11
+2026-06-18 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,235,18,High,Rainy,38,1
+2026-06-18 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,310,34,High,Sunny,29,0
+2026-06-18 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,293,27,High,Sunny,36,0
+2026-06-18 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,244,26,High,Cloudy,26,0
+2026-06-18 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,50,63,Low,Sunny,28,0
+2026-06-18 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,38,67,Low,Sunny,27,0
+2026-06-18 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,72,54,Low,Cloudy,37,0
+2026-06-19 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,31,52,Low,Cloudy,38,0
+2026-06-19 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,70,67,Low,Sunny,30,0
+2026-06-19 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,90,52,Low,Cloudy,26,0
+2026-06-19 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,46,62,Low,Rainy,25,9
+2026-06-19 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,88,64,Low,Rainy,25,5
+2026-06-19 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,88,51,Low,Sunny,36,0
+2026-06-19 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,88,69,Low,Sunny,31,0
+2026-06-19 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,264,21,High,Rainy,27,20
+2026-06-19 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,226,28,High,Cloudy,32,0
+2026-06-19 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,246,30,High,Rainy,28,12
+2026-06-19 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,281,25,High,Rainy,31,6
+2026-06-19 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,161,38,Medium,Sunny,33,0
+2026-06-19 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,142,49,Medium,Sunny,27,0
+2026-06-19 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,164,44,Medium,Rainy,31,8
+2026-06-19 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,144,35,Medium,Rainy,36,14
+2026-06-19 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,156,38,Medium,Cloudy,31,0
+2026-06-19 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,104,42,Medium,Cloudy,38,0
+2026-06-19 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,202,28,High,Cloudy,33,0
+2026-06-19 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,183,35,High,Cloudy,30,0
+2026-06-19 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,274,22,High,Rainy,33,11
+2026-06-19 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,287,21,High,Rainy,35,18
+2026-06-19 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,65,51,Low,Sunny,31,0
+2026-06-19 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,53,69,Low,Sunny,35,0
+2026-06-19 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,86,69,Low,Cloudy,24,0
+2026-06-20 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,53,61,Low,Cloudy,31,0
+2026-06-20 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,79,50,Low,Sunny,29,0
+2026-06-20 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,90,54,Low,Rainy,32,5
+2026-06-20 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,36,54,Low,Cloudy,31,0
+2026-06-20 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,37,64,Low,Rainy,33,19
+2026-06-20 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,77,67,Low,Sunny,37,0
+2026-06-20 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,33,56,Low,Rainy,38,7
+2026-06-20 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,300,28,High,Rainy,31,2
+2026-06-20 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,249,28,High,Sunny,24,0
+2026-06-20 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,232,26,High,Cloudy,34,0
+2026-06-20 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,272,23,High,Sunny,30,0
+2026-06-20 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,159,44,Medium,Sunny,36,0
+2026-06-20 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,150,45,Medium,Sunny,37,0
+2026-06-20 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,153,37,Medium,Cloudy,33,0
+2026-06-20 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,177,50,Medium,Sunny,32,0
+2026-06-20 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,120,36,Medium,Rainy,30,4
+2026-06-20 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,176,48,Medium,Rainy,38,7
+2026-06-20 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,185,20,High,Rainy,37,5
+2026-06-20 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,228,22,High,Rainy,27,6
+2026-06-20 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,270,22,High,Cloudy,35,0
+2026-06-20 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,287,24,High,Rainy,32,6
+2026-06-20 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,49,60,Low,Sunny,28,0
+2026-06-20 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,77,55,Low,Sunny,33,0
+2026-06-20 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,59,64,Low,Cloudy,34,0
+2026-06-21 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,80,70,Low,Sunny,27,0
+2026-06-21 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,85,68,Low,Sunny,28,0
+2026-06-21 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,67,52,Low,Sunny,27,0
+2026-06-21 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,42,54,Low,Rainy,31,18
+2026-06-21 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,85,55,Low,Cloudy,24,0
+2026-06-21 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,38,60,Low,Cloudy,25,0
+2026-06-21 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,38,69,Low,Rainy,30,5
+2026-06-21 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,266,23,High,Cloudy,29,0
+2026-06-21 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,313,26,High,Rainy,30,15
+2026-06-21 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,284,35,High,Sunny,28,0
+2026-06-21 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,304,34,High,Cloudy,24,0
+2026-06-21 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,125,49,Medium,Cloudy,34,0
+2026-06-21 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,124,44,Medium,Cloudy,30,0
+2026-06-21 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,178,40,Medium,Cloudy,25,0
+2026-06-21 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,124,48,Medium,Cloudy,33,0
+2026-06-21 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,171,49,Medium,Sunny,35,0
+2026-06-21 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,162,45,Medium,Cloudy,29,0
+2026-06-21 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,261,31,High,Cloudy,25,0
+2026-06-21 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,189,26,High,Rainy,25,3
+2026-06-21 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,250,22,High,Sunny,24,0
+2026-06-21 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,209,29,High,Rainy,30,12
+2026-06-21 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,78,59,Low,Cloudy,34,0
+2026-06-21 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,62,51,Low,Cloudy,32,0
+2026-06-21 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,85,65,Low,Rainy,28,7
+2026-06-22 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,32,61,Low,Cloudy,30,0
+2026-06-22 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,59,57,Low,Sunny,37,0
+2026-06-22 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,56,64,Low,Sunny,31,0
+2026-06-22 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,68,69,Low,Sunny,36,0
+2026-06-22 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,66,56,Low,Rainy,36,7
+2026-06-22 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,52,51,Low,Cloudy,31,0
+2026-06-22 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,31,56,Low,Rainy,30,10
+2026-06-22 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,222,28,High,Sunny,38,0
+2026-06-22 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,208,20,High,Sunny,32,0
+2026-06-22 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,186,32,High,Rainy,38,15
+2026-06-22 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,182,22,High,Cloudy,33,0
+2026-06-22 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,110,39,Medium,Cloudy,34,0
+2026-06-22 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,147,37,Medium,Rainy,33,11
+2026-06-22 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,159,44,Medium,Rainy,38,20
+2026-06-22 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,130,45,Medium,Rainy,36,6
+2026-06-22 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,168,46,Medium,Cloudy,24,0
+2026-06-22 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,174,38,Medium,Cloudy,28,0
+2026-06-22 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,188,22,High,Rainy,38,13
+2026-06-22 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,262,33,High,Cloudy,24,0
+2026-06-22 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,210,18,High,Rainy,35,13
+2026-06-22 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,246,24,High,Sunny,38,0
+2026-06-22 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,63,58,Low,Rainy,31,17
+2026-06-22 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,75,57,Low,Rainy,37,10
+2026-06-22 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,86,58,Low,Cloudy,38,0
+2026-06-23 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,83,62,Low,Rainy,35,2
+2026-06-23 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,34,54,Low,Sunny,36,0
+2026-06-23 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,84,50,Low,Cloudy,34,0
+2026-06-23 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,78,50,Low,Sunny,32,0
+2026-06-23 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,87,58,Low,Sunny,36,0
+2026-06-23 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,75,60,Low,Rainy,29,18
+2026-06-23 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,72,55,Low,Sunny,27,0
+2026-06-23 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,183,26,High,Cloudy,27,0
+2026-06-23 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,237,21,High,Rainy,30,13
+2026-06-23 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,264,23,High,Rainy,37,3
+2026-06-23 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,265,28,High,Sunny,26,0
+2026-06-23 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,105,44,Medium,Cloudy,28,0
+2026-06-23 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,174,49,Medium,Cloudy,31,0
+2026-06-23 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,154,49,Medium,Sunny,36,0
+2026-06-23 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,116,36,Medium,Rainy,37,13
+2026-06-23 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,119,50,Medium,Rainy,24,17
+2026-06-23 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,103,45,Medium,Sunny,38,0
+2026-06-23 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,214,34,High,Rainy,38,11
+2026-06-23 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,200,28,High,Cloudy,36,0
+2026-06-23 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,189,30,High,Cloudy,34,0
+2026-06-23 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,250,20,High,Cloudy,30,0
+2026-06-23 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,56,59,Low,Cloudy,35,0
+2026-06-23 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,59,62,Low,Sunny,34,0
+2026-06-23 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,75,69,Low,Cloudy,37,0
+2026-06-24 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,61,69,Low,Cloudy,26,0
+2026-06-24 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,66,70,Low,Rainy,28,7
+2026-06-24 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,67,54,Low,Rainy,24,20
+2026-06-24 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,48,66,Low,Sunny,25,0
+2026-06-24 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,37,61,Low,Rainy,35,16
+2026-06-24 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,59,54,Low,Rainy,30,14
+2026-06-24 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,51,69,Low,Rainy,33,12
+2026-06-24 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,279,19,High,Rainy,36,9
+2026-06-24 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,260,29,High,Sunny,28,0
+2026-06-24 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,184,30,High,Sunny,28,0
+2026-06-24 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,317,23,High,Rainy,29,7
+2026-06-24 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,170,39,Medium,Rainy,25,3
+2026-06-24 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,160,38,Medium,Rainy,33,16
+2026-06-24 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,145,42,Medium,Rainy,32,10
+2026-06-24 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,173,50,Medium,Rainy,37,5
+2026-06-24 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,138,36,Medium,Rainy,25,12
+2026-06-24 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,140,38,Medium,Rainy,37,12
+2026-06-24 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,223,21,High,Rainy,32,7
+2026-06-24 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,276,29,High,Sunny,30,0
+2026-06-24 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,199,27,High,Cloudy,25,0
+2026-06-24 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,305,18,High,Cloudy,29,0
+2026-06-24 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,48,56,Low,Rainy,34,15
+2026-06-24 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,71,52,Low,Cloudy,37,0
+2026-06-24 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,76,52,Low,Sunny,36,0
+2026-06-25 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,65,58,Low,Sunny,27,0
+2026-06-25 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,78,56,Low,Sunny,25,0
+2026-06-25 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,39,54,Low,Rainy,27,10
+2026-06-25 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,77,66,Low,Cloudy,24,0
+2026-06-25 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,44,50,Low,Cloudy,29,0
+2026-06-25 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,47,55,Low,Rainy,38,5
+2026-06-25 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,60,56,Low,Rainy,33,13
+2026-06-25 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,235,19,High,Cloudy,27,0
+2026-06-25 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,251,23,High,Rainy,26,4
+2026-06-25 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,309,28,High,Cloudy,31,0
+2026-06-25 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,286,21,High,Sunny,36,0
+2026-06-25 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,179,50,Medium,Cloudy,26,0
+2026-06-25 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,109,43,Medium,Cloudy,25,0
+2026-06-25 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,110,43,Medium,Sunny,28,0
+2026-06-25 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,117,48,Medium,Cloudy,29,0
+2026-06-25 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,163,42,Medium,Cloudy,24,0
+2026-06-25 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,124,41,Medium,Rainy,27,15
+2026-06-25 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,217,27,High,Rainy,33,19
+2026-06-25 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,256,32,High,Rainy,36,5
+2026-06-25 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,220,23,High,Rainy,30,19
+2026-06-25 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,284,30,High,Sunny,28,0
+2026-06-25 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,45,65,Low,Rainy,31,10
+2026-06-25 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,73,57,Low,Sunny,33,0
+2026-06-25 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,58,62,Low,Rainy,32,10
+2026-06-26 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,80,55,Low,Sunny,36,0
+2026-06-26 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,39,62,Low,Cloudy,34,0
+2026-06-26 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,36,55,Low,Sunny,37,0
+2026-06-26 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,41,58,Low,Sunny,34,0
+2026-06-26 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,56,65,Low,Sunny,27,0
+2026-06-26 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,76,65,Low,Rainy,35,10
+2026-06-26 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,40,63,Low,Rainy,33,8
+2026-06-26 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,190,31,High,Cloudy,34,0
+2026-06-26 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,276,18,High,Cloudy,28,0
+2026-06-26 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,252,28,High,Cloudy,25,0
+2026-06-26 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,315,21,High,Rainy,38,8
+2026-06-26 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,129,40,Medium,Sunny,31,0
+2026-06-26 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,164,46,Medium,Rainy,34,2
+2026-06-26 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,146,39,Medium,Rainy,29,5
+2026-06-26 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,126,40,Medium,Cloudy,26,0
+2026-06-26 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,164,43,Medium,Rainy,29,5
+2026-06-26 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,164,45,Medium,Cloudy,33,0
+2026-06-26 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,223,28,High,Rainy,33,12
+2026-06-26 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,224,18,High,Cloudy,30,0
+2026-06-26 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,193,33,High,Sunny,26,0
+2026-06-26 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,264,30,High,Rainy,27,12
+2026-06-26 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,86,62,Low,Sunny,32,0
+2026-06-26 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,33,65,Low,Sunny,34,0
+2026-06-26 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,79,70,Low,Rainy,25,5
+2026-06-27 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,87,70,Low,Cloudy,34,0
+2026-06-27 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,74,60,Low,Cloudy,38,0
+2026-06-27 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,74,63,Low,Cloudy,32,0
+2026-06-27 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,65,59,Low,Sunny,37,0
+2026-06-27 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,82,55,Low,Sunny,25,0
+2026-06-27 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,77,58,Low,Cloudy,35,0
+2026-06-27 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,83,58,Low,Sunny,25,0
+2026-06-27 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,230,31,High,Cloudy,24,0
+2026-06-27 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,235,24,High,Rainy,24,17
+2026-06-27 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,209,19,High,Sunny,38,0
+2026-06-27 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,207,31,High,Rainy,33,14
+2026-06-27 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,158,38,Medium,Sunny,32,0
+2026-06-27 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,151,46,Medium,Sunny,37,0
+2026-06-27 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,175,37,Medium,Rainy,34,15
+2026-06-27 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,102,41,Medium,Sunny,27,0
+2026-06-27 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,128,45,Medium,Rainy,32,18
+2026-06-27 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,129,37,Medium,Cloudy,27,0
+2026-06-27 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,286,28,High,Cloudy,34,0
+2026-06-27 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,235,35,High,Cloudy,30,0
+2026-06-27 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,198,25,High,Rainy,27,6
+2026-06-27 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,185,28,High,Sunny,38,0
+2026-06-27 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,33,62,Low,Rainy,37,12
+2026-06-27 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,51,63,Low,Sunny,24,0
+2026-06-27 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,79,66,Low,Rainy,27,4
+2026-06-28 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,46,61,Low,Rainy,33,10
+2026-06-28 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,34,52,Low,Sunny,33,0
+2026-06-28 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,42,50,Low,Sunny,30,0
+2026-06-28 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,31,51,Low,Cloudy,27,0
+2026-06-28 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,62,70,Low,Rainy,35,1
+2026-06-28 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,57,58,Low,Sunny,37,0
+2026-06-28 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,72,53,Low,Rainy,32,4
+2026-06-28 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,191,30,High,Rainy,36,13
+2026-06-28 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,283,20,High,Rainy,28,15
+2026-06-28 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,290,25,High,Sunny,36,0
+2026-06-28 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,298,29,High,Sunny,35,0
+2026-06-28 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,136,36,Medium,Sunny,35,0
+2026-06-28 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,169,45,Medium,Sunny,34,0
+2026-06-28 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,173,47,Medium,Rainy,26,15
+2026-06-28 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,157,41,Medium,Cloudy,33,0
+2026-06-28 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,150,44,Medium,Rainy,35,19
+2026-06-28 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,166,41,Medium,Rainy,32,17
+2026-06-28 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,316,34,High,Cloudy,37,0
+2026-06-28 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,222,25,High,Sunny,24,0
+2026-06-28 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,231,19,High,Cloudy,26,0
+2026-06-28 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,283,24,High,Sunny,28,0
+2026-06-28 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,44,52,Low,Rainy,29,20
+2026-06-28 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,32,66,Low,Sunny,34,0
+2026-06-28 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,32,51,Low,Sunny,34,0
+2026-06-29 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,36,60,Low,Rainy,36,11
+2026-06-29 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,44,63,Low,Rainy,31,4
+2026-06-29 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,53,63,Low,Cloudy,35,0
+2026-06-29 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,82,62,Low,Sunny,26,0
+2026-06-29 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,71,60,Low,Sunny,36,0
+2026-06-29 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,85,51,Low,Sunny,25,0
+2026-06-29 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,36,58,Low,Sunny,26,0
+2026-06-29 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,181,27,High,Sunny,29,0
+2026-06-29 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,251,35,High,Rainy,37,3
+2026-06-29 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,212,34,High,Cloudy,27,0
+2026-06-29 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,248,23,High,Rainy,32,14
+2026-06-29 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,112,45,Medium,Cloudy,28,0
+2026-06-29 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,106,37,Medium,Sunny,38,0
+2026-06-29 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,117,47,Medium,Rainy,30,16
+2026-06-29 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,124,36,Medium,Cloudy,38,0
+2026-06-29 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,133,43,Medium,Sunny,26,0
+2026-06-29 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,132,35,Medium,Rainy,24,13
+2026-06-29 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,298,20,High,Rainy,35,13
+2026-06-29 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,297,33,High,Rainy,32,20
+2026-06-29 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,180,31,High,Rainy,31,3
+2026-06-29 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,260,31,High,Cloudy,37,0
+2026-06-29 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,33,57,Low,Cloudy,24,0
+2026-06-29 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,33,60,Low,Cloudy,30,0
+2026-06-29 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,60,62,Low,Rainy,38,5
+2026-06-30 00:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,57,59,Low,Rainy,28,5
+2026-06-30 01:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,42,60,Low,Cloudy,36,0
+2026-06-30 02:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,68,57,Low,Cloudy,28,0
+2026-06-30 03:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,65,58,Low,Rainy,34,4
+2026-06-30 04:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,57,57,Low,Rainy,29,12
+2026-06-30 05:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,46,54,Low,Rainy,38,5
+2026-06-30 06:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,42,70,Low,Rainy,37,6
+2026-06-30 07:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,286,31,High,Sunny,25,0
+2026-06-30 08:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,186,29,High,Rainy,33,8
+2026-06-30 09:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,206,30,High,Sunny,33,0
+2026-06-30 10:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,198,29,High,Sunny,36,0
+2026-06-30 11:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,115,36,Medium,Rainy,31,17
+2026-06-30 12:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,126,35,Medium,Cloudy,24,0
+2026-06-30 13:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,110,48,Medium,Sunny,34,0
+2026-06-30 14:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,124,43,Medium,Cloudy,26,0
+2026-06-30 15:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,110,49,Medium,Rainy,29,14
+2026-06-30 16:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,155,49,Medium,Sunny,34,0
+2026-06-30 17:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,185,22,High,Sunny,29,0
+2026-06-30 18:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,283,24,High,Rainy,33,14
+2026-06-30 19:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,296,25,High,Rainy,31,17
+2026-06-30 20:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,255,20,High,Rainy,38,17
+2026-06-30 21:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,77,70,Low,Sunny,35,0
+2026-06-30 22:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,51,53,Low,Sunny,33,0
+2026-06-30 23:00:00,1,R001,Chennai Central,Tambaram,28.5,Chennai,81,64,Low,Rainy,29,18
+2026-06-01 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,75,66,Low,Sunny,36,0
+2026-06-01 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,79,66,Low,Rainy,28,13
+2026-06-01 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,58,51,Low,Rainy,35,2
+2026-06-01 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,47,65,Low,Cloudy,24,0
+2026-06-01 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,68,68,Low,Cloudy,28,0
+2026-06-01 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,31,59,Low,Rainy,30,11
+2026-06-01 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,83,53,Low,Cloudy,38,0
+2026-06-01 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,248,26,High,Sunny,33,0
+2026-06-01 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,219,20,High,Sunny,37,0
+2026-06-01 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,209,28,High,Rainy,24,8
+2026-06-01 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,224,27,High,Sunny,38,0
+2026-06-01 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,171,43,Medium,Rainy,38,6
+2026-06-01 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,112,48,Medium,Sunny,27,0
+2026-06-01 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,179,49,Medium,Rainy,30,4
+2026-06-01 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,110,44,Medium,Sunny,29,0
+2026-06-01 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,123,36,Medium,Sunny,37,0
+2026-06-01 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,145,50,Medium,Sunny,24,0
+2026-06-01 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,255,32,High,Cloudy,26,0
+2026-06-01 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,288,29,High,Sunny,36,0
+2026-06-01 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,201,21,High,Sunny,34,0
+2026-06-01 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,309,26,High,Cloudy,35,0
+2026-06-01 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,60,58,Low,Cloudy,28,0
+2026-06-01 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,77,60,Low,Rainy,27,11
+2026-06-01 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,52,65,Low,Sunny,33,0
+2026-06-02 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,30,65,Low,Sunny,32,0
+2026-06-02 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,42,61,Low,Cloudy,32,0
+2026-06-02 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,58,69,Low,Cloudy,27,0
+2026-06-02 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,39,65,Low,Sunny,24,0
+2026-06-02 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,43,70,Low,Sunny,27,0
+2026-06-02 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,58,56,Low,Sunny,33,0
+2026-06-02 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,51,55,Low,Cloudy,29,0
+2026-06-02 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,302,35,High,Sunny,37,0
+2026-06-02 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,309,28,High,Rainy,33,10
+2026-06-02 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,222,21,High,Sunny,38,0
+2026-06-02 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,270,25,High,Sunny,28,0
+2026-06-02 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,124,43,Medium,Cloudy,28,0
+2026-06-02 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,163,47,Medium,Rainy,26,6
+2026-06-02 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,136,50,Medium,Rainy,30,16
+2026-06-02 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,175,42,Medium,Rainy,29,11
+2026-06-02 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,170,35,Medium,Sunny,24,0
+2026-06-02 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,109,37,Medium,Rainy,27,15
+2026-06-02 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,305,32,High,Rainy,37,18
+2026-06-02 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,261,27,High,Cloudy,38,0
+2026-06-02 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,223,32,High,Rainy,34,19
+2026-06-02 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,207,18,High,Rainy,36,7
+2026-06-02 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,54,54,Low,Sunny,28,0
+2026-06-02 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,76,65,Low,Cloudy,26,0
+2026-06-02 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,84,65,Low,Rainy,29,19
+2026-06-03 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,65,70,Low,Cloudy,38,0
+2026-06-03 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,49,59,Low,Sunny,32,0
+2026-06-03 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,41,65,Low,Rainy,24,11
+2026-06-03 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,50,68,Low,Rainy,27,9
+2026-06-03 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,41,57,Low,Cloudy,32,0
+2026-06-03 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,58,61,Low,Sunny,36,0
+2026-06-03 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,67,50,Low,Sunny,24,0
+2026-06-03 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,305,18,High,Sunny,24,0
+2026-06-03 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,264,26,High,Cloudy,28,0
+2026-06-03 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,307,19,High,Sunny,33,0
+2026-06-03 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,188,22,High,Cloudy,38,0
+2026-06-03 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,146,39,Medium,Sunny,37,0
+2026-06-03 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,116,40,Medium,Cloudy,27,0
+2026-06-03 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,142,38,Medium,Rainy,32,5
+2026-06-03 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,136,42,Medium,Rainy,26,10
+2026-06-03 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,165,47,Medium,Rainy,29,7
+2026-06-03 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,158,49,Medium,Cloudy,33,0
+2026-06-03 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,196,23,High,Sunny,26,0
+2026-06-03 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,201,26,High,Sunny,37,0
+2026-06-03 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,223,21,High,Cloudy,25,0
+2026-06-03 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,317,35,High,Sunny,28,0
+2026-06-03 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,49,50,Low,Sunny,34,0
+2026-06-03 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,37,59,Low,Rainy,27,9
+2026-06-03 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,83,55,Low,Rainy,27,17
+2026-06-04 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,39,64,Low,Rainy,38,4
+2026-06-04 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,41,67,Low,Cloudy,34,0
+2026-06-04 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,61,70,Low,Sunny,34,0
+2026-06-04 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,61,59,Low,Sunny,27,0
+2026-06-04 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,32,64,Low,Sunny,33,0
+2026-06-04 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,45,55,Low,Rainy,27,5
+2026-06-04 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,54,50,Low,Cloudy,35,0
+2026-06-04 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,311,32,High,Rainy,33,6
+2026-06-04 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,309,20,High,Sunny,27,0
+2026-06-04 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,292,33,High,Sunny,33,0
+2026-06-04 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,282,27,High,Cloudy,34,0
+2026-06-04 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,145,44,Medium,Cloudy,37,0
+2026-06-04 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,102,42,Medium,Sunny,26,0
+2026-06-04 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,172,39,Medium,Cloudy,31,0
+2026-06-04 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,122,50,Medium,Cloudy,31,0
+2026-06-04 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,107,36,Medium,Rainy,29,10
+2026-06-04 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,101,37,Medium,Rainy,32,13
+2026-06-04 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,260,26,High,Rainy,26,4
+2026-06-04 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,295,35,High,Rainy,38,2
+2026-06-04 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,294,23,High,Cloudy,25,0
+2026-06-04 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,287,35,High,Cloudy,38,0
+2026-06-04 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,33,58,Low,Cloudy,30,0
+2026-06-04 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,81,69,Low,Sunny,31,0
+2026-06-04 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,68,70,Low,Cloudy,32,0
+2026-06-05 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,41,63,Low,Sunny,35,0
+2026-06-05 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,51,70,Low,Cloudy,35,0
+2026-06-05 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,59,59,Low,Rainy,26,10
+2026-06-05 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,54,50,Low,Cloudy,31,0
+2026-06-05 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,32,52,Low,Sunny,36,0
+2026-06-05 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,42,64,Low,Rainy,26,16
+2026-06-05 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,84,69,Low,Sunny,24,0
+2026-06-05 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,234,24,High,Cloudy,28,0
+2026-06-05 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,186,18,High,Rainy,28,15
+2026-06-05 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,220,19,High,Cloudy,28,0
+2026-06-05 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,266,24,High,Rainy,32,18
+2026-06-05 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,103,39,Medium,Rainy,30,9
+2026-06-05 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,155,45,Medium,Cloudy,36,0
+2026-06-05 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,179,37,Medium,Cloudy,32,0
+2026-06-05 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,123,44,Medium,Rainy,29,15
+2026-06-05 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,116,36,Medium,Cloudy,28,0
+2026-06-05 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,137,41,Medium,Rainy,32,15
+2026-06-05 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,206,24,High,Sunny,27,0
+2026-06-05 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,277,30,High,Sunny,32,0
+2026-06-05 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,316,31,High,Sunny,35,0
+2026-06-05 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,293,22,High,Sunny,28,0
+2026-06-05 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,51,68,Low,Cloudy,28,0
+2026-06-05 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,79,62,Low,Rainy,38,6
+2026-06-05 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,63,55,Low,Cloudy,26,0
+2026-06-06 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,90,62,Low,Sunny,29,0
+2026-06-06 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,32,56,Low,Sunny,32,0
+2026-06-06 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,71,52,Low,Rainy,35,5
+2026-06-06 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,51,58,Low,Cloudy,31,0
+2026-06-06 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,75,69,Low,Sunny,28,0
+2026-06-06 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,88,59,Low,Cloudy,33,0
+2026-06-06 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,63,68,Low,Sunny,38,0
+2026-06-06 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,271,27,High,Rainy,33,6
+2026-06-06 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,212,31,High,Sunny,30,0
+2026-06-06 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,216,32,High,Rainy,26,10
+2026-06-06 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,246,19,High,Sunny,29,0
+2026-06-06 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,164,49,Medium,Rainy,27,5
+2026-06-06 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,113,35,Medium,Sunny,26,0
+2026-06-06 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,124,49,Medium,Sunny,35,0
+2026-06-06 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,134,45,Medium,Cloudy,34,0
+2026-06-06 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,155,38,Medium,Cloudy,29,0
+2026-06-06 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,155,40,Medium,Rainy,29,18
+2026-06-06 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,306,22,High,Rainy,29,5
+2026-06-06 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,284,29,High,Cloudy,36,0
+2026-06-06 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,311,33,High,Rainy,33,18
+2026-06-06 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,198,31,High,Sunny,31,0
+2026-06-06 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,63,63,Low,Cloudy,34,0
+2026-06-06 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,81,69,Low,Cloudy,31,0
+2026-06-06 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,84,67,Low,Rainy,24,6
+2026-06-07 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,74,68,Low,Rainy,28,20
+2026-06-07 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,88,54,Low,Cloudy,33,0
+2026-06-07 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,51,50,Low,Rainy,24,17
+2026-06-07 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,88,60,Low,Sunny,24,0
+2026-06-07 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,87,58,Low,Cloudy,28,0
+2026-06-07 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,41,57,Low,Cloudy,35,0
+2026-06-07 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,67,64,Low,Cloudy,30,0
+2026-06-07 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,204,27,High,Sunny,38,0
+2026-06-07 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,211,26,High,Cloudy,25,0
+2026-06-07 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,319,34,High,Cloudy,26,0
+2026-06-07 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,288,21,High,Rainy,29,10
+2026-06-07 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,178,46,Medium,Rainy,29,15
+2026-06-07 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,168,48,Medium,Rainy,27,6
+2026-06-07 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,114,36,Medium,Cloudy,25,0
+2026-06-07 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,144,45,Medium,Cloudy,33,0
+2026-06-07 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,176,49,Medium,Cloudy,36,0
+2026-06-07 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,113,50,Medium,Rainy,30,8
+2026-06-07 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,212,27,High,Cloudy,36,0
+2026-06-07 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,315,32,High,Rainy,27,6
+2026-06-07 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,194,31,High,Sunny,36,0
+2026-06-07 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,210,28,High,Sunny,27,0
+2026-06-07 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,79,53,Low,Rainy,25,7
+2026-06-07 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,44,55,Low,Cloudy,37,0
+2026-06-07 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,77,55,Low,Rainy,30,1
+2026-06-08 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,80,57,Low,Sunny,26,0
+2026-06-08 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,52,63,Low,Cloudy,27,0
+2026-06-08 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,52,61,Low,Cloudy,25,0
+2026-06-08 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,86,52,Low,Rainy,31,3
+2026-06-08 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,77,64,Low,Cloudy,33,0
+2026-06-08 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,86,67,Low,Sunny,29,0
+2026-06-08 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,86,58,Low,Cloudy,24,0
+2026-06-08 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,275,22,High,Cloudy,25,0
+2026-06-08 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,252,32,High,Sunny,34,0
+2026-06-08 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,291,32,High,Cloudy,33,0
+2026-06-08 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,189,26,High,Sunny,30,0
+2026-06-08 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,139,46,Medium,Cloudy,33,0
+2026-06-08 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,173,47,Medium,Rainy,30,19
+2026-06-08 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,158,35,Medium,Sunny,38,0
+2026-06-08 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,107,38,Medium,Cloudy,36,0
+2026-06-08 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,139,43,Medium,Cloudy,26,0
+2026-06-08 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,107,47,Medium,Sunny,34,0
+2026-06-08 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,234,19,High,Cloudy,33,0
+2026-06-08 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,300,18,High,Cloudy,37,0
+2026-06-08 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,263,25,High,Sunny,26,0
+2026-06-08 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,188,24,High,Sunny,35,0
+2026-06-08 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,42,53,Low,Sunny,27,0
+2026-06-08 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,64,67,Low,Rainy,25,16
+2026-06-08 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,83,56,Low,Sunny,38,0
+2026-06-09 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,71,53,Low,Rainy,38,16
+2026-06-09 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,86,70,Low,Sunny,29,0
+2026-06-09 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,37,57,Low,Rainy,35,2
+2026-06-09 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,32,50,Low,Rainy,33,9
+2026-06-09 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,59,59,Low,Cloudy,35,0
+2026-06-09 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,47,64,Low,Sunny,27,0
+2026-06-09 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,63,63,Low,Sunny,25,0
+2026-06-09 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,318,32,High,Rainy,30,4
+2026-06-09 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,312,34,High,Rainy,26,5
+2026-06-09 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,275,32,High,Sunny,38,0
+2026-06-09 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,308,20,High,Cloudy,32,0
+2026-06-09 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,108,46,Medium,Rainy,32,19
+2026-06-09 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,101,37,Medium,Rainy,34,13
+2026-06-09 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,109,44,Medium,Cloudy,27,0
+2026-06-09 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,155,35,Medium,Cloudy,24,0
+2026-06-09 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,144,49,Medium,Sunny,24,0
+2026-06-09 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,127,36,Medium,Sunny,33,0
+2026-06-09 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,223,24,High,Cloudy,31,0
+2026-06-09 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,257,27,High,Sunny,34,0
+2026-06-09 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,208,22,High,Cloudy,35,0
+2026-06-09 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,291,33,High,Sunny,34,0
+2026-06-09 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,49,66,Low,Sunny,31,0
+2026-06-09 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,35,55,Low,Rainy,31,16
+2026-06-09 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,49,60,Low,Cloudy,33,0
+2026-06-10 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,40,63,Low,Cloudy,24,0
+2026-06-10 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,45,57,Low,Rainy,29,1
+2026-06-10 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,58,70,Low,Rainy,38,11
+2026-06-10 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,64,70,Low,Cloudy,31,0
+2026-06-10 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,42,52,Low,Sunny,30,0
+2026-06-10 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,47,56,Low,Cloudy,32,0
+2026-06-10 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,89,66,Low,Cloudy,29,0
+2026-06-10 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,295,29,High,Cloudy,34,0
+2026-06-10 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,185,25,High,Sunny,34,0
+2026-06-10 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,187,22,High,Rainy,30,4
+2026-06-10 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,255,22,High,Sunny,32,0
+2026-06-10 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,174,46,Medium,Rainy,27,18
+2026-06-10 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,134,37,Medium,Sunny,37,0
+2026-06-10 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,115,39,Medium,Rainy,35,3
+2026-06-10 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,176,37,Medium,Cloudy,29,0
+2026-06-10 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,174,42,Medium,Sunny,26,0
+2026-06-10 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,100,46,Medium,Cloudy,36,0
+2026-06-10 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,308,24,High,Rainy,35,17
+2026-06-10 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,290,21,High,Rainy,24,9
+2026-06-10 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,214,23,High,Cloudy,26,0
+2026-06-10 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,231,35,High,Sunny,32,0
+2026-06-10 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,54,58,Low,Rainy,25,5
+2026-06-10 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,55,66,Low,Rainy,30,14
+2026-06-10 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,79,58,Low,Sunny,25,0
+2026-06-11 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,34,50,Low,Sunny,32,0
+2026-06-11 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,80,67,Low,Sunny,26,0
+2026-06-11 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,68,68,Low,Sunny,28,0
+2026-06-11 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,36,68,Low,Rainy,33,19
+2026-06-11 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,84,57,Low,Sunny,29,0
+2026-06-11 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,31,52,Low,Rainy,24,8
+2026-06-11 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,68,62,Low,Sunny,38,0
+2026-06-11 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,259,24,High,Sunny,27,0
+2026-06-11 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,228,19,High,Sunny,36,0
+2026-06-11 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,199,30,High,Sunny,32,0
+2026-06-11 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,306,31,High,Cloudy,31,0
+2026-06-11 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,120,36,Medium,Rainy,25,1
+2026-06-11 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,146,38,Medium,Rainy,31,19
+2026-06-11 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,101,36,Medium,Cloudy,28,0
+2026-06-11 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,115,41,Medium,Sunny,38,0
+2026-06-11 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,168,38,Medium,Sunny,24,0
+2026-06-11 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,166,47,Medium,Rainy,30,1
+2026-06-11 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,304,31,High,Rainy,34,18
+2026-06-11 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,262,26,High,Cloudy,33,0
+2026-06-11 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,203,30,High,Sunny,35,0
+2026-06-11 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,263,20,High,Rainy,36,2
+2026-06-11 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,81,58,Low,Cloudy,31,0
+2026-06-11 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,38,64,Low,Sunny,27,0
+2026-06-11 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,87,57,Low,Sunny,32,0
+2026-06-12 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,41,53,Low,Cloudy,36,0
+2026-06-12 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,47,61,Low,Cloudy,26,0
+2026-06-12 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,50,66,Low,Sunny,36,0
+2026-06-12 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,40,66,Low,Rainy,36,20
+2026-06-12 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,58,57,Low,Sunny,25,0
+2026-06-12 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,68,62,Low,Cloudy,31,0
+2026-06-12 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,80,68,Low,Sunny,28,0
+2026-06-12 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,226,35,High,Sunny,37,0
+2026-06-12 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,201,20,High,Rainy,37,9
+2026-06-12 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,192,33,High,Sunny,30,0
+2026-06-12 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,273,21,High,Cloudy,35,0
+2026-06-12 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,137,36,Medium,Sunny,31,0
+2026-06-12 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,129,50,Medium,Sunny,24,0
+2026-06-12 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,103,42,Medium,Rainy,34,11
+2026-06-12 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,159,41,Medium,Rainy,32,11
+2026-06-12 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,161,38,Medium,Sunny,25,0
+2026-06-12 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,172,37,Medium,Sunny,30,0
+2026-06-12 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,307,34,High,Sunny,33,0
+2026-06-12 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,201,21,High,Sunny,33,0
+2026-06-12 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,241,35,High,Cloudy,24,0
+2026-06-12 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,293,34,High,Rainy,28,9
+2026-06-12 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,71,56,Low,Sunny,24,0
+2026-06-12 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,69,67,Low,Sunny,37,0
+2026-06-12 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,64,57,Low,Sunny,35,0
+2026-06-13 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,52,52,Low,Cloudy,25,0
+2026-06-13 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,84,58,Low,Rainy,35,15
+2026-06-13 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,71,69,Low,Rainy,37,8
+2026-06-13 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,36,53,Low,Rainy,30,18
+2026-06-13 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,39,55,Low,Sunny,27,0
+2026-06-13 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,81,64,Low,Sunny,31,0
+2026-06-13 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,68,50,Low,Sunny,24,0
+2026-06-13 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,261,19,High,Cloudy,29,0
+2026-06-13 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,208,27,High,Cloudy,24,0
+2026-06-13 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,293,25,High,Cloudy,28,0
+2026-06-13 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,181,18,High,Sunny,36,0
+2026-06-13 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,102,44,Medium,Rainy,35,15
+2026-06-13 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,172,36,Medium,Cloudy,26,0
+2026-06-13 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,100,37,Medium,Cloudy,29,0
+2026-06-13 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,108,46,Medium,Sunny,36,0
+2026-06-13 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,147,45,Medium,Cloudy,32,0
+2026-06-13 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,161,43,Medium,Rainy,30,14
+2026-06-13 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,287,26,High,Rainy,29,7
+2026-06-13 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,180,33,High,Cloudy,26,0
+2026-06-13 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,276,18,High,Sunny,37,0
+2026-06-13 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,234,20,High,Sunny,38,0
+2026-06-13 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,74,64,Low,Cloudy,31,0
+2026-06-13 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,84,60,Low,Rainy,34,12
+2026-06-13 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,87,54,Low,Sunny,26,0
+2026-06-14 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,57,54,Low,Rainy,30,9
+2026-06-14 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,86,65,Low,Rainy,27,18
+2026-06-14 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,35,53,Low,Cloudy,27,0
+2026-06-14 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,83,56,Low,Sunny,33,0
+2026-06-14 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,78,65,Low,Rainy,36,1
+2026-06-14 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,52,62,Low,Sunny,24,0
+2026-06-14 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,75,64,Low,Cloudy,38,0
+2026-06-14 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,299,31,High,Rainy,25,16
+2026-06-14 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,262,32,High,Sunny,38,0
+2026-06-14 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,287,26,High,Rainy,26,15
+2026-06-14 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,265,28,High,Sunny,26,0
+2026-06-14 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,179,49,Medium,Rainy,36,16
+2026-06-14 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,139,43,Medium,Cloudy,34,0
+2026-06-14 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,125,45,Medium,Cloudy,33,0
+2026-06-14 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,117,37,Medium,Cloudy,36,0
+2026-06-14 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,119,42,Medium,Cloudy,28,0
+2026-06-14 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,145,37,Medium,Rainy,30,5
+2026-06-14 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,278,20,High,Rainy,27,19
+2026-06-14 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,259,22,High,Rainy,29,1
+2026-06-14 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,304,21,High,Sunny,34,0
+2026-06-14 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,287,26,High,Sunny,31,0
+2026-06-14 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,78,55,Low,Cloudy,25,0
+2026-06-14 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,74,52,Low,Sunny,28,0
+2026-06-14 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,51,69,Low,Sunny,25,0
+2026-06-15 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,84,65,Low,Rainy,32,2
+2026-06-15 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,32,54,Low,Cloudy,35,0
+2026-06-15 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,83,59,Low,Rainy,32,13
+2026-06-15 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,54,62,Low,Rainy,28,20
+2026-06-15 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,76,62,Low,Cloudy,35,0
+2026-06-15 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,50,64,Low,Cloudy,29,0
+2026-06-15 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,82,63,Low,Sunny,26,0
+2026-06-15 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,203,20,High,Sunny,35,0
+2026-06-15 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,219,30,High,Cloudy,38,0
+2026-06-15 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,202,33,High,Rainy,34,15
+2026-06-15 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,247,25,High,Rainy,38,9
+2026-06-15 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,148,49,Medium,Cloudy,35,0
+2026-06-15 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,102,43,Medium,Sunny,25,0
+2026-06-15 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,157,40,Medium,Rainy,32,3
+2026-06-15 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,113,36,Medium,Rainy,27,4
+2026-06-15 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,128,41,Medium,Sunny,36,0
+2026-06-15 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,107,50,Medium,Rainy,30,4
+2026-06-15 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,279,21,High,Sunny,36,0
+2026-06-15 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,203,20,High,Cloudy,30,0
+2026-06-15 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,182,27,High,Cloudy,34,0
+2026-06-15 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,285,33,High,Sunny,29,0
+2026-06-15 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,40,54,Low,Rainy,37,12
+2026-06-15 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,90,61,Low,Cloudy,35,0
+2026-06-15 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,55,50,Low,Cloudy,38,0
+2026-06-16 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,35,56,Low,Sunny,28,0
+2026-06-16 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,81,63,Low,Rainy,37,16
+2026-06-16 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,72,58,Low,Rainy,26,8
+2026-06-16 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,83,64,Low,Rainy,31,10
+2026-06-16 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,67,63,Low,Cloudy,35,0
+2026-06-16 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,56,56,Low,Sunny,24,0
+2026-06-16 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,52,67,Low,Sunny,24,0
+2026-06-16 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,205,27,High,Rainy,28,8
+2026-06-16 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,272,28,High,Cloudy,38,0
+2026-06-16 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,275,35,High,Rainy,31,13
+2026-06-16 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,305,25,High,Cloudy,24,0
+2026-06-16 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,121,37,Medium,Cloudy,30,0
+2026-06-16 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,148,50,Medium,Sunny,27,0
+2026-06-16 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,135,49,Medium,Cloudy,37,0
+2026-06-16 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,169,37,Medium,Cloudy,25,0
+2026-06-16 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,158,35,Medium,Rainy,30,11
+2026-06-16 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,117,40,Medium,Cloudy,29,0
+2026-06-16 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,192,30,High,Sunny,38,0
+2026-06-16 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,278,18,High,Rainy,30,15
+2026-06-16 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,191,19,High,Rainy,36,10
+2026-06-16 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,276,33,High,Sunny,25,0
+2026-06-16 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,82,53,Low,Cloudy,25,0
+2026-06-16 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,46,53,Low,Sunny,25,0
+2026-06-16 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,54,63,Low,Rainy,33,2
+2026-06-17 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,58,68,Low,Rainy,38,17
+2026-06-17 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,40,69,Low,Sunny,26,0
+2026-06-17 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,88,61,Low,Sunny,27,0
+2026-06-17 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,83,68,Low,Sunny,38,0
+2026-06-17 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,33,59,Low,Cloudy,30,0
+2026-06-17 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,41,51,Low,Rainy,38,15
+2026-06-17 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,49,52,Low,Rainy,28,16
+2026-06-17 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,280,32,High,Cloudy,30,0
+2026-06-17 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,259,23,High,Rainy,34,17
+2026-06-17 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,204,24,High,Rainy,30,14
+2026-06-17 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,254,18,High,Sunny,35,0
+2026-06-17 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,153,40,Medium,Rainy,32,13
+2026-06-17 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,161,48,Medium,Sunny,27,0
+2026-06-17 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,166,38,Medium,Sunny,33,0
+2026-06-17 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,109,43,Medium,Cloudy,36,0
+2026-06-17 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,101,39,Medium,Cloudy,28,0
+2026-06-17 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,110,46,Medium,Cloudy,32,0
+2026-06-17 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,259,33,High,Sunny,29,0
+2026-06-17 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,247,23,High,Cloudy,29,0
+2026-06-17 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,205,34,High,Sunny,24,0
+2026-06-17 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,225,21,High,Cloudy,27,0
+2026-06-17 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,33,67,Low,Cloudy,36,0
+2026-06-17 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,89,54,Low,Sunny,24,0
+2026-06-17 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,63,63,Low,Sunny,34,0
+2026-06-18 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,75,61,Low,Cloudy,25,0
+2026-06-18 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,69,53,Low,Sunny,26,0
+2026-06-18 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,54,55,Low,Sunny,37,0
+2026-06-18 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,64,55,Low,Rainy,36,3
+2026-06-18 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,65,50,Low,Cloudy,36,0
+2026-06-18 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,32,52,Low,Rainy,31,16
+2026-06-18 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,57,70,Low,Rainy,26,14
+2026-06-18 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,203,34,High,Cloudy,29,0
+2026-06-18 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,220,33,High,Cloudy,36,0
+2026-06-18 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,248,20,High,Sunny,29,0
+2026-06-18 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,280,35,High,Rainy,35,12
+2026-06-18 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,150,39,Medium,Sunny,35,0
+2026-06-18 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,115,42,Medium,Sunny,32,0
+2026-06-18 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,149,48,Medium,Cloudy,36,0
+2026-06-18 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,117,39,Medium,Sunny,35,0
+2026-06-18 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,125,36,Medium,Sunny,28,0
+2026-06-18 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,175,47,Medium,Sunny,25,0
+2026-06-18 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,224,21,High,Cloudy,37,0
+2026-06-18 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,223,31,High,Rainy,34,13
+2026-06-18 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,180,23,High,Sunny,34,0
+2026-06-18 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,193,26,High,Rainy,35,12
+2026-06-18 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,43,56,Low,Cloudy,24,0
+2026-06-18 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,67,58,Low,Cloudy,37,0
+2026-06-18 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,62,67,Low,Sunny,37,0
+2026-06-19 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,85,59,Low,Sunny,34,0
+2026-06-19 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,79,55,Low,Rainy,34,6
+2026-06-19 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,80,69,Low,Rainy,26,14
+2026-06-19 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,30,60,Low,Cloudy,31,0
+2026-06-19 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,52,63,Low,Rainy,31,9
+2026-06-19 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,88,51,Low,Sunny,24,0
+2026-06-19 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,64,52,Low,Rainy,34,12
+2026-06-19 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,250,23,High,Sunny,36,0
+2026-06-19 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,248,21,High,Rainy,28,15
+2026-06-19 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,245,31,High,Rainy,30,13
+2026-06-19 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,265,23,High,Cloudy,36,0
+2026-06-19 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,169,45,Medium,Rainy,35,12
+2026-06-19 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,151,39,Medium,Sunny,29,0
+2026-06-19 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,147,36,Medium,Cloudy,28,0
+2026-06-19 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,153,35,Medium,Sunny,29,0
+2026-06-19 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,173,46,Medium,Cloudy,34,0
+2026-06-19 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,104,41,Medium,Sunny,26,0
+2026-06-19 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,280,35,High,Cloudy,28,0
+2026-06-19 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,306,32,High,Cloudy,24,0
+2026-06-19 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,183,25,High,Sunny,24,0
+2026-06-19 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,234,24,High,Rainy,34,1
+2026-06-19 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,88,53,Low,Sunny,36,0
+2026-06-19 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,30,63,Low,Rainy,38,6
+2026-06-19 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,42,55,Low,Rainy,24,17
+2026-06-20 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,61,64,Low,Sunny,26,0
+2026-06-20 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,67,66,Low,Cloudy,33,0
+2026-06-20 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,67,67,Low,Rainy,26,11
+2026-06-20 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,85,56,Low,Cloudy,30,0
+2026-06-20 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,75,50,Low,Sunny,24,0
+2026-06-20 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,46,70,Low,Sunny,25,0
+2026-06-20 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,71,65,Low,Cloudy,30,0
+2026-06-20 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,200,34,High,Cloudy,29,0
+2026-06-20 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,263,23,High,Rainy,32,6
+2026-06-20 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,201,33,High,Sunny,38,0
+2026-06-20 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,211,20,High,Sunny,35,0
+2026-06-20 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,166,47,Medium,Rainy,30,2
+2026-06-20 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,175,37,Medium,Sunny,24,0
+2026-06-20 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,105,50,Medium,Cloudy,36,0
+2026-06-20 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,156,44,Medium,Rainy,34,8
+2026-06-20 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,149,39,Medium,Cloudy,33,0
+2026-06-20 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,161,48,Medium,Rainy,32,1
+2026-06-20 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,289,28,High,Sunny,32,0
+2026-06-20 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,265,18,High,Sunny,30,0
+2026-06-20 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,253,24,High,Rainy,27,4
+2026-06-20 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,298,19,High,Rainy,30,17
+2026-06-20 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,71,55,Low,Rainy,27,16
+2026-06-20 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,51,67,Low,Sunny,37,0
+2026-06-20 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,55,57,Low,Sunny,31,0
+2026-06-21 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,33,50,Low,Cloudy,27,0
+2026-06-21 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,73,57,Low,Sunny,36,0
+2026-06-21 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,45,60,Low,Cloudy,25,0
+2026-06-21 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,85,54,Low,Rainy,28,18
+2026-06-21 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,39,62,Low,Sunny,36,0
+2026-06-21 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,68,51,Low,Cloudy,33,0
+2026-06-21 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,64,55,Low,Cloudy,27,0
+2026-06-21 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,204,22,High,Cloudy,30,0
+2026-06-21 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,282,24,High,Cloudy,35,0
+2026-06-21 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,219,27,High,Sunny,36,0
+2026-06-21 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,215,18,High,Cloudy,34,0
+2026-06-21 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,143,39,Medium,Cloudy,37,0
+2026-06-21 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,151,39,Medium,Rainy,28,13
+2026-06-21 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,143,39,Medium,Rainy,30,6
+2026-06-21 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,163,48,Medium,Cloudy,38,0
+2026-06-21 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,125,42,Medium,Rainy,30,7
+2026-06-21 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,153,43,Medium,Rainy,30,20
+2026-06-21 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,285,26,High,Sunny,28,0
+2026-06-21 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,285,33,High,Sunny,34,0
+2026-06-21 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,262,25,High,Rainy,38,15
+2026-06-21 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,236,22,High,Cloudy,35,0
+2026-06-21 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,81,69,Low,Sunny,27,0
+2026-06-21 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,59,62,Low,Cloudy,34,0
+2026-06-21 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,55,70,Low,Cloudy,33,0
+2026-06-22 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,51,54,Low,Cloudy,31,0
+2026-06-22 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,53,57,Low,Sunny,32,0
+2026-06-22 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,48,69,Low,Rainy,25,2
+2026-06-22 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,30,64,Low,Rainy,27,12
+2026-06-22 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,67,63,Low,Rainy,28,5
+2026-06-22 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,70,55,Low,Cloudy,38,0
+2026-06-22 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,79,56,Low,Rainy,24,13
+2026-06-22 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,248,22,High,Rainy,34,13
+2026-06-22 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,297,20,High,Sunny,30,0
+2026-06-22 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,253,19,High,Sunny,25,0
+2026-06-22 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,228,29,High,Sunny,27,0
+2026-06-22 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,113,39,Medium,Sunny,30,0
+2026-06-22 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,114,39,Medium,Rainy,30,4
+2026-06-22 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,119,37,Medium,Rainy,37,7
+2026-06-22 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,170,36,Medium,Sunny,27,0
+2026-06-22 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,124,47,Medium,Rainy,36,3
+2026-06-22 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,122,47,Medium,Cloudy,32,0
+2026-06-22 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,274,34,High,Cloudy,24,0
+2026-06-22 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,186,26,High,Cloudy,34,0
+2026-06-22 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,216,29,High,Cloudy,35,0
+2026-06-22 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,199,33,High,Rainy,35,3
+2026-06-22 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,41,64,Low,Rainy,25,15
+2026-06-22 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,46,64,Low,Rainy,35,5
+2026-06-22 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,82,66,Low,Cloudy,24,0
+2026-06-23 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,79,68,Low,Cloudy,24,0
+2026-06-23 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,34,51,Low,Cloudy,27,0
+2026-06-23 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,73,67,Low,Sunny,34,0
+2026-06-23 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,38,62,Low,Rainy,35,16
+2026-06-23 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,46,64,Low,Rainy,37,15
+2026-06-23 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,67,58,Low,Sunny,25,0
+2026-06-23 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,69,55,Low,Rainy,29,5
+2026-06-23 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,215,28,High,Rainy,29,19
+2026-06-23 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,294,24,High,Cloudy,24,0
+2026-06-23 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,216,19,High,Sunny,25,0
+2026-06-23 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,295,22,High,Rainy,27,19
+2026-06-23 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,112,48,Medium,Rainy,24,4
+2026-06-23 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,115,40,Medium,Rainy,27,19
+2026-06-23 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,177,35,Medium,Sunny,27,0
+2026-06-23 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,138,46,Medium,Rainy,28,18
+2026-06-23 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,175,37,Medium,Rainy,26,2
+2026-06-23 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,176,47,Medium,Rainy,32,9
+2026-06-23 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,195,32,High,Sunny,37,0
+2026-06-23 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,299,19,High,Rainy,38,10
+2026-06-23 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,222,18,High,Sunny,24,0
+2026-06-23 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,243,22,High,Rainy,24,6
+2026-06-23 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,55,67,Low,Sunny,31,0
+2026-06-23 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,61,66,Low,Rainy,35,13
+2026-06-23 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,73,63,Low,Rainy,24,14
+2026-06-24 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,88,52,Low,Sunny,32,0
+2026-06-24 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,70,66,Low,Sunny,32,0
+2026-06-24 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,88,55,Low,Sunny,26,0
+2026-06-24 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,90,63,Low,Rainy,32,19
+2026-06-24 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,73,50,Low,Sunny,30,0
+2026-06-24 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,30,70,Low,Cloudy,38,0
+2026-06-24 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,75,53,Low,Rainy,27,1
+2026-06-24 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,280,24,High,Sunny,28,0
+2026-06-24 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,239,18,High,Cloudy,28,0
+2026-06-24 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,285,30,High,Cloudy,26,0
+2026-06-24 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,311,33,High,Cloudy,28,0
+2026-06-24 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,125,36,Medium,Rainy,26,20
+2026-06-24 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,149,45,Medium,Cloudy,38,0
+2026-06-24 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,174,41,Medium,Sunny,37,0
+2026-06-24 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,151,35,Medium,Cloudy,34,0
+2026-06-24 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,115,48,Medium,Cloudy,27,0
+2026-06-24 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,138,44,Medium,Cloudy,25,0
+2026-06-24 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,203,32,High,Cloudy,26,0
+2026-06-24 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,287,23,High,Cloudy,32,0
+2026-06-24 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,292,29,High,Sunny,32,0
+2026-06-24 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,245,23,High,Cloudy,25,0
+2026-06-24 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,77,56,Low,Rainy,28,5
+2026-06-24 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,82,55,Low,Sunny,36,0
+2026-06-24 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,43,58,Low,Cloudy,25,0
+2026-06-25 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,48,70,Low,Rainy,30,13
+2026-06-25 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,34,54,Low,Rainy,32,14
+2026-06-25 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,70,52,Low,Sunny,25,0
+2026-06-25 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,86,70,Low,Cloudy,27,0
+2026-06-25 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,70,63,Low,Cloudy,28,0
+2026-06-25 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,46,61,Low,Rainy,34,3
+2026-06-25 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,36,63,Low,Rainy,31,5
+2026-06-25 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,245,24,High,Rainy,38,15
+2026-06-25 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,229,30,High,Sunny,27,0
+2026-06-25 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,252,29,High,Sunny,24,0
+2026-06-25 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,212,29,High,Rainy,36,13
+2026-06-25 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,114,42,Medium,Cloudy,37,0
+2026-06-25 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,100,45,Medium,Rainy,37,7
+2026-06-25 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,114,49,Medium,Sunny,27,0
+2026-06-25 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,137,47,Medium,Rainy,31,5
+2026-06-25 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,103,37,Medium,Sunny,38,0
+2026-06-25 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,115,42,Medium,Sunny,29,0
+2026-06-25 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,197,29,High,Cloudy,25,0
+2026-06-25 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,299,23,High,Rainy,28,6
+2026-06-25 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,243,27,High,Sunny,28,0
+2026-06-25 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,186,25,High,Cloudy,32,0
+2026-06-25 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,63,54,Low,Rainy,36,10
+2026-06-25 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,37,69,Low,Sunny,24,0
+2026-06-25 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,75,69,Low,Cloudy,38,0
+2026-06-26 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,89,69,Low,Rainy,27,14
+2026-06-26 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,67,58,Low,Rainy,33,17
+2026-06-26 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,51,69,Low,Rainy,36,12
+2026-06-26 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,58,65,Low,Rainy,25,20
+2026-06-26 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,71,68,Low,Cloudy,34,0
+2026-06-26 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,36,63,Low,Rainy,31,18
+2026-06-26 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,52,57,Low,Rainy,38,9
+2026-06-26 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,260,29,High,Cloudy,35,0
+2026-06-26 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,223,20,High,Cloudy,24,0
+2026-06-26 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,304,19,High,Rainy,31,20
+2026-06-26 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,320,26,High,Cloudy,31,0
+2026-06-26 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,103,46,Medium,Sunny,25,0
+2026-06-26 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,143,40,Medium,Sunny,36,0
+2026-06-26 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,153,41,Medium,Sunny,25,0
+2026-06-26 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,106,35,Medium,Rainy,26,11
+2026-06-26 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,147,35,Medium,Cloudy,31,0
+2026-06-26 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,179,48,Medium,Sunny,36,0
+2026-06-26 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,279,34,High,Rainy,24,19
+2026-06-26 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,208,24,High,Rainy,33,2
+2026-06-26 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,237,19,High,Sunny,30,0
+2026-06-26 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,203,18,High,Rainy,37,15
+2026-06-26 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,67,56,Low,Rainy,28,18
+2026-06-26 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,30,57,Low,Sunny,36,0
+2026-06-26 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,69,70,Low,Rainy,38,19
+2026-06-27 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,49,67,Low,Rainy,36,20
+2026-06-27 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,61,50,Low,Rainy,26,11
+2026-06-27 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,79,50,Low,Sunny,26,0
+2026-06-27 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,89,56,Low,Cloudy,35,0
+2026-06-27 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,39,65,Low,Sunny,29,0
+2026-06-27 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,60,52,Low,Sunny,27,0
+2026-06-27 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,57,70,Low,Rainy,34,18
+2026-06-27 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,202,29,High,Rainy,24,17
+2026-06-27 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,242,24,High,Sunny,35,0
+2026-06-27 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,235,30,High,Cloudy,38,0
+2026-06-27 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,316,22,High,Rainy,33,12
+2026-06-27 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,161,35,Medium,Rainy,26,4
+2026-06-27 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,122,36,Medium,Rainy,35,15
+2026-06-27 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,109,50,Medium,Sunny,28,0
+2026-06-27 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,126,37,Medium,Sunny,36,0
+2026-06-27 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,159,42,Medium,Rainy,35,12
+2026-06-27 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,104,41,Medium,Cloudy,32,0
+2026-06-27 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,233,31,High,Cloudy,33,0
+2026-06-27 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,181,24,High,Sunny,38,0
+2026-06-27 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,312,21,High,Cloudy,28,0
+2026-06-27 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,260,33,High,Rainy,34,6
+2026-06-27 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,78,70,Low,Sunny,31,0
+2026-06-27 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,82,69,Low,Sunny,34,0
+2026-06-27 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,41,51,Low,Sunny,36,0
+2026-06-28 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,64,60,Low,Rainy,31,6
+2026-06-28 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,82,58,Low,Cloudy,30,0
+2026-06-28 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,87,50,Low,Rainy,37,6
+2026-06-28 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,46,51,Low,Rainy,25,8
+2026-06-28 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,42,65,Low,Cloudy,34,0
+2026-06-28 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,89,69,Low,Rainy,31,9
+2026-06-28 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,41,56,Low,Sunny,33,0
+2026-06-28 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,249,20,High,Rainy,34,12
+2026-06-28 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,186,30,High,Rainy,29,14
+2026-06-28 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,273,25,High,Rainy,26,4
+2026-06-28 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,181,28,High,Sunny,32,0
+2026-06-28 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,164,40,Medium,Sunny,38,0
+2026-06-28 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,110,50,Medium,Rainy,29,6
+2026-06-28 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,155,46,Medium,Sunny,25,0
+2026-06-28 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,144,48,Medium,Sunny,30,0
+2026-06-28 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,165,50,Medium,Rainy,38,12
+2026-06-28 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,150,44,Medium,Rainy,24,14
+2026-06-28 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,230,33,High,Rainy,37,11
+2026-06-28 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,257,27,High,Rainy,26,19
+2026-06-28 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,285,23,High,Sunny,27,0
+2026-06-28 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,256,34,High,Rainy,32,7
+2026-06-28 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,38,61,Low,Sunny,28,0
+2026-06-28 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,34,62,Low,Rainy,25,18
+2026-06-28 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,67,52,Low,Cloudy,26,0
+2026-06-29 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,48,62,Low,Rainy,35,3
+2026-06-29 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,78,55,Low,Sunny,38,0
+2026-06-29 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,35,60,Low,Rainy,25,1
+2026-06-29 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,71,50,Low,Cloudy,37,0
+2026-06-29 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,50,57,Low,Cloudy,36,0
+2026-06-29 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,74,60,Low,Cloudy,28,0
+2026-06-29 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,43,68,Low,Rainy,30,18
+2026-06-29 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,260,21,High,Rainy,34,1
+2026-06-29 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,290,32,High,Rainy,29,20
+2026-06-29 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,245,19,High,Cloudy,26,0
+2026-06-29 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,194,19,High,Rainy,24,3
+2026-06-29 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,115,49,Medium,Rainy,36,14
+2026-06-29 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,155,38,Medium,Rainy,29,15
+2026-06-29 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,179,45,Medium,Rainy,33,17
+2026-06-29 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,164,40,Medium,Cloudy,29,0
+2026-06-29 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,178,49,Medium,Sunny,37,0
+2026-06-29 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,133,45,Medium,Sunny,37,0
+2026-06-29 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,190,25,High,Cloudy,34,0
+2026-06-29 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,259,22,High,Cloudy,36,0
+2026-06-29 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,272,33,High,Cloudy,33,0
+2026-06-29 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,187,31,High,Cloudy,33,0
+2026-06-29 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,80,67,Low,Cloudy,36,0
+2026-06-29 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,87,53,Low,Rainy,31,2
+2026-06-29 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,37,62,Low,Sunny,36,0
+2026-06-30 00:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,70,59,Low,Sunny,34,0
+2026-06-30 01:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,63,68,Low,Sunny,35,0
+2026-06-30 02:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,33,64,Low,Rainy,38,4
+2026-06-30 03:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,75,52,Low,Rainy,33,1
+2026-06-30 04:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,37,55,Low,Rainy,27,19
+2026-06-30 05:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,36,50,Low,Rainy,25,7
+2026-06-30 06:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,49,66,Low,Cloudy,35,0
+2026-06-30 07:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,208,34,High,Rainy,34,17
+2026-06-30 08:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,267,31,High,Rainy,34,16
+2026-06-30 09:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,299,34,High,Cloudy,34,0
+2026-06-30 10:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,208,21,High,Rainy,36,7
+2026-06-30 11:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,166,48,Medium,Cloudy,33,0
+2026-06-30 12:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,137,38,Medium,Rainy,24,12
+2026-06-30 13:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,171,46,Medium,Sunny,28,0
+2026-06-30 14:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,123,46,Medium,Rainy,26,1
+2026-06-30 15:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,138,49,Medium,Rainy,38,5
+2026-06-30 16:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,135,44,Medium,Rainy,36,20
+2026-06-30 17:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,180,29,High,Sunny,37,0
+2026-06-30 18:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,226,26,High,Rainy,37,8
+2026-06-30 19:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,223,19,High,Rainy,27,4
+2026-06-30 20:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,249,26,High,Cloudy,31,0
+2026-06-30 21:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,58,61,Low,Rainy,31,13
+2026-06-30 22:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,71,54,Low,Sunny,27,0
+2026-06-30 23:00:00,2,R002,Guindy,Siruseri,24.2,Chennai,87,50,Low,Rainy,34,18
+2026-06-01 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,78,61,Low,Rainy,32,17
+2026-06-01 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,76,61,Low,Rainy,37,9
+2026-06-01 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,84,59,Low,Sunny,28,0
+2026-06-01 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,61,68,Low,Rainy,28,3
+2026-06-01 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,38,64,Low,Sunny,27,0
+2026-06-01 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,83,55,Low,Sunny,28,0
+2026-06-01 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,42,59,Low,Rainy,37,9
+2026-06-01 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,296,18,High,Cloudy,24,0
+2026-06-01 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,283,29,High,Rainy,32,10
+2026-06-01 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,222,22,High,Rainy,34,11
+2026-06-01 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,318,23,High,Rainy,30,4
+2026-06-01 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,120,36,Medium,Rainy,33,2
+2026-06-01 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,133,44,Medium,Cloudy,33,0
+2026-06-01 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,109,50,Medium,Rainy,31,5
+2026-06-01 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,175,49,Medium,Rainy,29,10
+2026-06-01 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,124,39,Medium,Cloudy,37,0
+2026-06-01 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,165,35,Medium,Cloudy,36,0
+2026-06-01 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,301,29,High,Cloudy,38,0
+2026-06-01 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,279,24,High,Rainy,29,1
+2026-06-01 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,181,31,High,Sunny,33,0
+2026-06-01 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,230,25,High,Sunny,37,0
+2026-06-01 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,36,57,Low,Sunny,28,0
+2026-06-01 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,84,66,Low,Cloudy,28,0
+2026-06-01 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,81,68,Low,Rainy,25,17
+2026-06-02 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,48,54,Low,Rainy,37,16
+2026-06-02 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,75,59,Low,Sunny,30,0
+2026-06-02 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,76,70,Low,Rainy,29,16
+2026-06-02 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,69,64,Low,Rainy,32,4
+2026-06-02 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,47,56,Low,Sunny,27,0
+2026-06-02 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,42,52,Low,Cloudy,31,0
+2026-06-02 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,33,67,Low,Rainy,33,9
+2026-06-02 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,288,25,High,Sunny,33,0
+2026-06-02 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,267,25,High,Cloudy,34,0
+2026-06-02 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,238,20,High,Rainy,26,3
+2026-06-02 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,260,32,High,Sunny,33,0
+2026-06-02 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,110,48,Medium,Cloudy,35,0
+2026-06-02 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,126,35,Medium,Cloudy,26,0
+2026-06-02 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,170,37,Medium,Cloudy,26,0
+2026-06-02 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,179,35,Medium,Sunny,33,0
+2026-06-02 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,103,44,Medium,Cloudy,31,0
+2026-06-02 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,113,38,Medium,Sunny,29,0
+2026-06-02 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,194,28,High,Cloudy,31,0
+2026-06-02 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,320,28,High,Sunny,36,0
+2026-06-02 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,207,23,High,Cloudy,24,0
+2026-06-02 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,320,29,High,Rainy,24,3
+2026-06-02 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,51,50,Low,Sunny,34,0
+2026-06-02 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,61,60,Low,Rainy,25,12
+2026-06-02 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,73,57,Low,Cloudy,30,0
+2026-06-03 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,51,53,Low,Rainy,25,17
+2026-06-03 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,52,62,Low,Cloudy,38,0
+2026-06-03 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,64,57,Low,Rainy,27,15
+2026-06-03 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,85,57,Low,Sunny,26,0
+2026-06-03 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,39,62,Low,Cloudy,35,0
+2026-06-03 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,88,50,Low,Sunny,25,0
+2026-06-03 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,52,59,Low,Sunny,28,0
+2026-06-03 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,187,31,High,Cloudy,27,0
+2026-06-03 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,219,32,High,Cloudy,28,0
+2026-06-03 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,212,23,High,Rainy,37,6
+2026-06-03 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,215,33,High,Cloudy,32,0
+2026-06-03 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,110,35,Medium,Rainy,36,19
+2026-06-03 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,126,48,Medium,Cloudy,38,0
+2026-06-03 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,129,45,Medium,Cloudy,24,0
+2026-06-03 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,124,38,Medium,Cloudy,34,0
+2026-06-03 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,140,50,Medium,Cloudy,38,0
+2026-06-03 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,134,48,Medium,Sunny,27,0
+2026-06-03 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,241,18,High,Cloudy,27,0
+2026-06-03 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,199,33,High,Rainy,38,14
+2026-06-03 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,197,21,High,Sunny,27,0
+2026-06-03 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,226,26,High,Cloudy,37,0
+2026-06-03 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,44,51,Low,Cloudy,27,0
+2026-06-03 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,32,62,Low,Rainy,31,16
+2026-06-03 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,70,62,Low,Cloudy,37,0
+2026-06-04 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,48,60,Low,Cloudy,28,0
+2026-06-04 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,88,65,Low,Cloudy,30,0
+2026-06-04 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,74,62,Low,Sunny,24,0
+2026-06-04 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,69,57,Low,Cloudy,24,0
+2026-06-04 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,30,59,Low,Sunny,36,0
+2026-06-04 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,66,50,Low,Rainy,34,19
+2026-06-04 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,80,50,Low,Sunny,36,0
+2026-06-04 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,197,18,High,Cloudy,33,0
+2026-06-04 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,288,20,High,Rainy,25,17
+2026-06-04 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,296,22,High,Sunny,25,0
+2026-06-04 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,249,35,High,Cloudy,26,0
+2026-06-04 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,104,50,Medium,Sunny,33,0
+2026-06-04 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,169,38,Medium,Cloudy,38,0
+2026-06-04 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,152,37,Medium,Rainy,34,17
+2026-06-04 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,113,42,Medium,Cloudy,28,0
+2026-06-04 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,146,38,Medium,Rainy,26,3
+2026-06-04 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,165,43,Medium,Rainy,24,14
+2026-06-04 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,296,33,High,Cloudy,25,0
+2026-06-04 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,293,35,High,Sunny,28,0
+2026-06-04 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,267,28,High,Rainy,33,19
+2026-06-04 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,185,35,High,Sunny,38,0
+2026-06-04 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,72,69,Low,Cloudy,29,0
+2026-06-04 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,90,65,Low,Cloudy,25,0
+2026-06-04 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,41,69,Low,Sunny,30,0
+2026-06-05 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,45,56,Low,Rainy,27,18
+2026-06-05 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,79,63,Low,Rainy,33,17
+2026-06-05 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,44,54,Low,Rainy,37,17
+2026-06-05 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,63,68,Low,Sunny,38,0
+2026-06-05 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,53,55,Low,Rainy,37,20
+2026-06-05 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,64,61,Low,Cloudy,32,0
+2026-06-05 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,82,50,Low,Rainy,30,1
+2026-06-05 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,198,31,High,Cloudy,28,0
+2026-06-05 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,291,25,High,Cloudy,25,0
+2026-06-05 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,287,30,High,Cloudy,31,0
+2026-06-05 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,213,21,High,Rainy,32,11
+2026-06-05 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,149,49,Medium,Sunny,28,0
+2026-06-05 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,100,46,Medium,Sunny,25,0
+2026-06-05 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,127,36,Medium,Rainy,36,15
+2026-06-05 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,147,43,Medium,Cloudy,25,0
+2026-06-05 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,140,38,Medium,Sunny,24,0
+2026-06-05 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,171,49,Medium,Cloudy,35,0
+2026-06-05 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,282,32,High,Sunny,29,0
+2026-06-05 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,190,25,High,Cloudy,35,0
+2026-06-05 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,290,18,High,Sunny,27,0
+2026-06-05 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,320,25,High,Sunny,26,0
+2026-06-05 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,49,51,Low,Sunny,29,0
+2026-06-05 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,77,50,Low,Rainy,28,13
+2026-06-05 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,77,59,Low,Rainy,33,11
+2026-06-06 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,55,52,Low,Cloudy,33,0
+2026-06-06 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,81,63,Low,Sunny,31,0
+2026-06-06 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,43,64,Low,Sunny,24,0
+2026-06-06 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,80,50,Low,Cloudy,27,0
+2026-06-06 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,87,53,Low,Sunny,25,0
+2026-06-06 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,68,51,Low,Rainy,24,15
+2026-06-06 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,47,50,Low,Rainy,32,4
+2026-06-06 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,302,26,High,Rainy,29,2
+2026-06-06 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,248,29,High,Sunny,24,0
+2026-06-06 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,306,31,High,Cloudy,26,0
+2026-06-06 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,198,19,High,Sunny,32,0
+2026-06-06 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,134,35,Medium,Rainy,30,8
+2026-06-06 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,149,41,Medium,Rainy,31,12
+2026-06-06 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,164,38,Medium,Rainy,38,10
+2026-06-06 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,116,45,Medium,Rainy,25,18
+2026-06-06 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,164,39,Medium,Rainy,25,11
+2026-06-06 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,147,38,Medium,Sunny,24,0
+2026-06-06 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,189,33,High,Rainy,31,13
+2026-06-06 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,242,21,High,Cloudy,33,0
+2026-06-06 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,236,31,High,Cloudy,30,0
+2026-06-06 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,285,32,High,Rainy,35,11
+2026-06-06 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,35,64,Low,Rainy,27,7
+2026-06-06 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,57,51,Low,Sunny,25,0
+2026-06-06 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,79,58,Low,Cloudy,31,0
+2026-06-07 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,77,58,Low,Sunny,37,0
+2026-06-07 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,43,57,Low,Cloudy,27,0
+2026-06-07 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,71,54,Low,Cloudy,36,0
+2026-06-07 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,47,52,Low,Cloudy,28,0
+2026-06-07 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,61,56,Low,Rainy,29,8
+2026-06-07 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,30,69,Low,Sunny,37,0
+2026-06-07 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,47,63,Low,Cloudy,35,0
+2026-06-07 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,242,35,High,Cloudy,29,0
+2026-06-07 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,189,26,High,Rainy,24,5
+2026-06-07 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,316,30,High,Sunny,36,0
+2026-06-07 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,185,23,High,Sunny,28,0
+2026-06-07 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,110,39,Medium,Cloudy,30,0
+2026-06-07 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,174,35,Medium,Rainy,28,9
+2026-06-07 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,176,37,Medium,Sunny,35,0
+2026-06-07 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,139,50,Medium,Sunny,38,0
+2026-06-07 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,150,40,Medium,Sunny,31,0
+2026-06-07 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,143,50,Medium,Sunny,25,0
+2026-06-07 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,248,27,High,Cloudy,31,0
+2026-06-07 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,292,24,High,Rainy,30,15
+2026-06-07 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,204,29,High,Rainy,33,10
+2026-06-07 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,309,29,High,Cloudy,28,0
+2026-06-07 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,89,64,Low,Cloudy,35,0
+2026-06-07 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,31,51,Low,Cloudy,35,0
+2026-06-07 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,72,58,Low,Cloudy,37,0
+2026-06-08 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,68,50,Low,Sunny,30,0
+2026-06-08 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,65,65,Low,Sunny,36,0
+2026-06-08 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,79,66,Low,Cloudy,33,0
+2026-06-08 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,55,50,Low,Sunny,27,0
+2026-06-08 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,64,64,Low,Sunny,24,0
+2026-06-08 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,74,59,Low,Sunny,34,0
+2026-06-08 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,59,52,Low,Sunny,28,0
+2026-06-08 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,237,30,High,Rainy,32,18
+2026-06-08 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,235,31,High,Sunny,38,0
+2026-06-08 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,200,32,High,Sunny,30,0
+2026-06-08 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,233,21,High,Sunny,26,0
+2026-06-08 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,111,39,Medium,Rainy,36,15
+2026-06-08 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,154,43,Medium,Cloudy,29,0
+2026-06-08 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,110,43,Medium,Cloudy,29,0
+2026-06-08 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,168,50,Medium,Sunny,32,0
+2026-06-08 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,124,42,Medium,Sunny,28,0
+2026-06-08 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,110,42,Medium,Sunny,29,0
+2026-06-08 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,311,32,High,Sunny,30,0
+2026-06-08 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,219,26,High,Rainy,28,13
+2026-06-08 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,260,34,High,Sunny,26,0
+2026-06-08 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,187,24,High,Sunny,29,0
+2026-06-08 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,49,56,Low,Sunny,33,0
+2026-06-08 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,54,62,Low,Sunny,29,0
+2026-06-08 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,67,50,Low,Sunny,26,0
+2026-06-09 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,41,66,Low,Rainy,25,2
+2026-06-09 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,38,62,Low,Sunny,34,0
+2026-06-09 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,58,68,Low,Cloudy,35,0
+2026-06-09 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,38,60,Low,Cloudy,35,0
+2026-06-09 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,80,55,Low,Rainy,30,19
+2026-06-09 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,46,62,Low,Cloudy,30,0
+2026-06-09 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,30,52,Low,Sunny,33,0
+2026-06-09 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,243,26,High,Rainy,31,18
+2026-06-09 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,257,33,High,Cloudy,36,0
+2026-06-09 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,299,32,High,Cloudy,35,0
+2026-06-09 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,306,30,High,Cloudy,27,0
+2026-06-09 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,157,44,Medium,Sunny,38,0
+2026-06-09 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,147,44,Medium,Rainy,38,3
+2026-06-09 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,115,41,Medium,Rainy,31,11
+2026-06-09 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,103,44,Medium,Rainy,27,6
+2026-06-09 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,161,38,Medium,Cloudy,25,0
+2026-06-09 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,117,46,Medium,Sunny,24,0
+2026-06-09 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,269,35,High,Rainy,31,9
+2026-06-09 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,312,23,High,Cloudy,37,0
+2026-06-09 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,210,30,High,Cloudy,34,0
+2026-06-09 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,281,18,High,Cloudy,35,0
+2026-06-09 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,61,57,Low,Rainy,28,11
+2026-06-09 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,35,53,Low,Cloudy,26,0
+2026-06-09 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,63,69,Low,Sunny,38,0
+2026-06-10 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,40,52,Low,Rainy,37,2
+2026-06-10 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,79,69,Low,Sunny,34,0
+2026-06-10 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,43,59,Low,Cloudy,27,0
+2026-06-10 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,78,66,Low,Rainy,33,17
+2026-06-10 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,50,62,Low,Rainy,33,11
+2026-06-10 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,78,70,Low,Cloudy,37,0
+2026-06-10 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,55,70,Low,Cloudy,34,0
+2026-06-10 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,301,29,High,Rainy,33,13
+2026-06-10 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,317,35,High,Sunny,32,0
+2026-06-10 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,211,35,High,Cloudy,33,0
+2026-06-10 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,193,35,High,Cloudy,28,0
+2026-06-10 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,127,44,Medium,Sunny,34,0
+2026-06-10 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,163,37,Medium,Sunny,28,0
+2026-06-10 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,150,39,Medium,Sunny,34,0
+2026-06-10 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,168,44,Medium,Rainy,33,16
+2026-06-10 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,126,46,Medium,Cloudy,30,0
+2026-06-10 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,101,50,Medium,Cloudy,30,0
+2026-06-10 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,256,27,High,Cloudy,26,0
+2026-06-10 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,194,30,High,Cloudy,26,0
+2026-06-10 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,320,30,High,Sunny,26,0
+2026-06-10 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,302,31,High,Sunny,29,0
+2026-06-10 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,83,70,Low,Rainy,34,5
+2026-06-10 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,76,70,Low,Cloudy,25,0
+2026-06-10 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,73,57,Low,Rainy,32,12
+2026-06-11 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,60,57,Low,Cloudy,30,0
+2026-06-11 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,88,53,Low,Cloudy,25,0
+2026-06-11 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,69,61,Low,Cloudy,30,0
+2026-06-11 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,40,70,Low,Cloudy,37,0
+2026-06-11 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,53,59,Low,Rainy,33,7
+2026-06-11 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,52,66,Low,Sunny,31,0
+2026-06-11 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,33,61,Low,Cloudy,36,0
+2026-06-11 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,244,27,High,Sunny,26,0
+2026-06-11 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,274,22,High,Rainy,28,3
+2026-06-11 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,224,35,High,Sunny,36,0
+2026-06-11 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,280,29,High,Sunny,36,0
+2026-06-11 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,118,44,Medium,Cloudy,34,0
+2026-06-11 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,135,48,Medium,Cloudy,27,0
+2026-06-11 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,107,41,Medium,Cloudy,27,0
+2026-06-11 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,160,49,Medium,Cloudy,31,0
+2026-06-11 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,166,39,Medium,Rainy,38,10
+2026-06-11 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,111,39,Medium,Rainy,32,11
+2026-06-11 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,250,26,High,Rainy,36,11
+2026-06-11 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,195,35,High,Rainy,37,12
+2026-06-11 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,286,30,High,Rainy,28,11
+2026-06-11 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,316,27,High,Cloudy,27,0
+2026-06-11 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,59,58,Low,Sunny,30,0
+2026-06-11 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,37,60,Low,Cloudy,36,0
+2026-06-11 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,78,59,Low,Sunny,35,0
+2026-06-12 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,86,57,Low,Rainy,27,5
+2026-06-12 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,76,63,Low,Cloudy,35,0
+2026-06-12 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,83,70,Low,Cloudy,24,0
+2026-06-12 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,36,69,Low,Sunny,33,0
+2026-06-12 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,31,57,Low,Cloudy,32,0
+2026-06-12 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,35,51,Low,Sunny,35,0
+2026-06-12 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,58,50,Low,Rainy,29,11
+2026-06-12 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,261,26,High,Sunny,37,0
+2026-06-12 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,251,20,High,Sunny,38,0
+2026-06-12 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,207,28,High,Cloudy,34,0
+2026-06-12 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,248,28,High,Cloudy,28,0
+2026-06-12 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,153,47,Medium,Rainy,34,6
+2026-06-12 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,104,46,Medium,Cloudy,36,0
+2026-06-12 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,147,49,Medium,Cloudy,35,0
+2026-06-12 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,150,49,Medium,Sunny,33,0
+2026-06-12 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,127,45,Medium,Rainy,29,14
+2026-06-12 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,108,42,Medium,Rainy,27,9
+2026-06-12 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,272,24,High,Sunny,31,0
+2026-06-12 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,200,35,High,Cloudy,38,0
+2026-06-12 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,244,18,High,Cloudy,36,0
+2026-06-12 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,211,25,High,Rainy,29,3
+2026-06-12 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,37,66,Low,Sunny,36,0
+2026-06-12 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,81,68,Low,Cloudy,26,0
+2026-06-12 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,44,54,Low,Rainy,35,18
+2026-06-13 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,42,52,Low,Sunny,36,0
+2026-06-13 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,36,61,Low,Sunny,27,0
+2026-06-13 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,56,50,Low,Sunny,28,0
+2026-06-13 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,41,61,Low,Sunny,25,0
+2026-06-13 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,38,60,Low,Sunny,25,0
+2026-06-13 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,78,53,Low,Cloudy,35,0
+2026-06-13 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,47,50,Low,Cloudy,31,0
+2026-06-13 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,232,32,High,Rainy,25,20
+2026-06-13 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,214,28,High,Cloudy,27,0
+2026-06-13 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,316,24,High,Cloudy,29,0
+2026-06-13 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,311,27,High,Sunny,29,0
+2026-06-13 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,152,41,Medium,Cloudy,24,0
+2026-06-13 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,116,46,Medium,Rainy,37,7
+2026-06-13 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,140,35,Medium,Cloudy,28,0
+2026-06-13 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,145,49,Medium,Sunny,35,0
+2026-06-13 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,143,47,Medium,Rainy,30,9
+2026-06-13 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,178,45,Medium,Rainy,35,8
+2026-06-13 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,291,30,High,Sunny,31,0
+2026-06-13 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,266,31,High,Cloudy,35,0
+2026-06-13 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,317,28,High,Rainy,29,3
+2026-06-13 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,254,30,High,Sunny,36,0
+2026-06-13 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,37,57,Low,Rainy,28,10
+2026-06-13 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,36,60,Low,Sunny,30,0
+2026-06-13 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,90,59,Low,Cloudy,24,0
+2026-06-14 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,40,54,Low,Rainy,33,10
+2026-06-14 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,56,51,Low,Cloudy,25,0
+2026-06-14 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,90,54,Low,Rainy,36,18
+2026-06-14 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,88,67,Low,Rainy,28,12
+2026-06-14 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,67,68,Low,Rainy,28,8
+2026-06-14 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,48,59,Low,Cloudy,24,0
+2026-06-14 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,39,51,Low,Cloudy,35,0
+2026-06-14 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,195,24,High,Cloudy,33,0
+2026-06-14 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,193,26,High,Rainy,32,2
+2026-06-14 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,288,25,High,Cloudy,27,0
+2026-06-14 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,314,24,High,Cloudy,24,0
+2026-06-14 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,137,40,Medium,Rainy,29,3
+2026-06-14 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,137,42,Medium,Rainy,28,15
+2026-06-14 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,150,35,Medium,Cloudy,38,0
+2026-06-14 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,154,49,Medium,Rainy,28,18
+2026-06-14 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,128,44,Medium,Rainy,28,19
+2026-06-14 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,118,35,Medium,Sunny,32,0
+2026-06-14 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,212,28,High,Cloudy,32,0
+2026-06-14 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,227,19,High,Rainy,30,2
+2026-06-14 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,195,26,High,Rainy,29,19
+2026-06-14 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,232,26,High,Cloudy,30,0
+2026-06-14 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,67,62,Low,Sunny,38,0
+2026-06-14 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,72,55,Low,Sunny,35,0
+2026-06-14 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,63,67,Low,Sunny,27,0
+2026-06-15 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,43,64,Low,Rainy,27,9
+2026-06-15 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,88,60,Low,Cloudy,27,0
+2026-06-15 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,64,62,Low,Rainy,37,7
+2026-06-15 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,50,54,Low,Cloudy,31,0
+2026-06-15 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,84,65,Low,Sunny,24,0
+2026-06-15 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,51,54,Low,Rainy,32,19
+2026-06-15 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,74,53,Low,Sunny,36,0
+2026-06-15 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,265,21,High,Rainy,38,14
+2026-06-15 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,191,23,High,Cloudy,30,0
+2026-06-15 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,187,18,High,Cloudy,24,0
+2026-06-15 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,253,29,High,Sunny,37,0
+2026-06-15 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,114,46,Medium,Sunny,30,0
+2026-06-15 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,115,43,Medium,Cloudy,33,0
+2026-06-15 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,119,37,Medium,Sunny,28,0
+2026-06-15 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,180,35,Medium,Sunny,29,0
+2026-06-15 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,106,39,Medium,Cloudy,35,0
+2026-06-15 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,132,44,Medium,Rainy,35,8
+2026-06-15 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,305,34,High,Rainy,25,20
+2026-06-15 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,195,20,High,Sunny,28,0
+2026-06-15 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,254,35,High,Cloudy,28,0
+2026-06-15 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,284,31,High,Cloudy,33,0
+2026-06-15 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,56,66,Low,Cloudy,36,0
+2026-06-15 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,48,65,Low,Sunny,24,0
+2026-06-15 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,78,50,Low,Cloudy,35,0
+2026-06-16 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,72,59,Low,Sunny,31,0
+2026-06-16 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,67,67,Low,Cloudy,36,0
+2026-06-16 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,43,55,Low,Rainy,36,11
+2026-06-16 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,75,57,Low,Cloudy,30,0
+2026-06-16 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,63,65,Low,Rainy,35,15
+2026-06-16 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,85,67,Low,Sunny,31,0
+2026-06-16 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,85,68,Low,Sunny,30,0
+2026-06-16 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,193,21,High,Sunny,30,0
+2026-06-16 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,251,35,High,Sunny,26,0
+2026-06-16 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,191,21,High,Cloudy,28,0
+2026-06-16 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,309,35,High,Rainy,26,17
+2026-06-16 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,147,46,Medium,Cloudy,24,0
+2026-06-16 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,127,44,Medium,Sunny,28,0
+2026-06-16 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,167,48,Medium,Sunny,33,0
+2026-06-16 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,139,48,Medium,Rainy,29,17
+2026-06-16 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,106,41,Medium,Sunny,35,0
+2026-06-16 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,156,45,Medium,Rainy,30,8
+2026-06-16 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,278,20,High,Cloudy,29,0
+2026-06-16 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,189,27,High,Sunny,34,0
+2026-06-16 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,201,34,High,Sunny,24,0
+2026-06-16 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,209,19,High,Sunny,27,0
+2026-06-16 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,36,61,Low,Cloudy,32,0
+2026-06-16 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,32,50,Low,Sunny,29,0
+2026-06-16 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,51,63,Low,Sunny,31,0
+2026-06-17 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,47,60,Low,Cloudy,24,0
+2026-06-17 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,68,70,Low,Cloudy,30,0
+2026-06-17 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,36,55,Low,Cloudy,24,0
+2026-06-17 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,37,65,Low,Cloudy,31,0
+2026-06-17 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,84,59,Low,Cloudy,33,0
+2026-06-17 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,54,61,Low,Rainy,27,4
+2026-06-17 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,79,55,Low,Sunny,33,0
+2026-06-17 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,277,27,High,Sunny,34,0
+2026-06-17 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,268,33,High,Sunny,29,0
+2026-06-17 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,180,29,High,Cloudy,25,0
+2026-06-17 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,289,32,High,Sunny,29,0
+2026-06-17 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,136,44,Medium,Rainy,37,11
+2026-06-17 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,117,37,Medium,Rainy,27,10
+2026-06-17 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,129,43,Medium,Rainy,30,11
+2026-06-17 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,157,47,Medium,Rainy,30,9
+2026-06-17 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,103,46,Medium,Rainy,27,8
+2026-06-17 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,123,42,Medium,Cloudy,38,0
+2026-06-17 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,244,25,High,Rainy,38,13
+2026-06-17 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,236,25,High,Sunny,25,0
+2026-06-17 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,299,25,High,Rainy,26,13
+2026-06-17 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,181,24,High,Cloudy,27,0
+2026-06-17 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,55,53,Low,Sunny,37,0
+2026-06-17 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,80,70,Low,Sunny,38,0
+2026-06-17 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,56,57,Low,Rainy,30,5
+2026-06-18 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,62,67,Low,Rainy,27,15
+2026-06-18 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,36,66,Low,Sunny,24,0
+2026-06-18 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,76,61,Low,Sunny,24,0
+2026-06-18 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,56,65,Low,Sunny,34,0
+2026-06-18 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,54,69,Low,Cloudy,37,0
+2026-06-18 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,30,53,Low,Rainy,38,20
+2026-06-18 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,44,64,Low,Cloudy,29,0
+2026-06-18 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,265,28,High,Rainy,31,7
+2026-06-18 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,300,19,High,Cloudy,25,0
+2026-06-18 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,225,25,High,Cloudy,29,0
+2026-06-18 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,306,18,High,Sunny,37,0
+2026-06-18 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,155,40,Medium,Cloudy,34,0
+2026-06-18 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,171,36,Medium,Cloudy,28,0
+2026-06-18 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,154,39,Medium,Cloudy,38,0
+2026-06-18 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,174,46,Medium,Cloudy,35,0
+2026-06-18 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,149,50,Medium,Rainy,33,14
+2026-06-18 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,160,47,Medium,Rainy,28,14
+2026-06-18 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,307,29,High,Cloudy,25,0
+2026-06-18 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,213,30,High,Sunny,24,0
+2026-06-18 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,242,24,High,Sunny,24,0
+2026-06-18 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,221,31,High,Cloudy,33,0
+2026-06-18 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,71,51,Low,Sunny,26,0
+2026-06-18 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,72,58,Low,Sunny,32,0
+2026-06-18 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,50,70,Low,Cloudy,26,0
+2026-06-19 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,63,61,Low,Sunny,30,0
+2026-06-19 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,40,54,Low,Cloudy,36,0
+2026-06-19 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,49,57,Low,Cloudy,34,0
+2026-06-19 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,57,65,Low,Rainy,27,8
+2026-06-19 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,50,55,Low,Sunny,31,0
+2026-06-19 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,74,56,Low,Cloudy,28,0
+2026-06-19 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,81,67,Low,Cloudy,26,0
+2026-06-19 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,234,35,High,Rainy,29,16
+2026-06-19 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,206,22,High,Sunny,28,0
+2026-06-19 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,311,29,High,Sunny,35,0
+2026-06-19 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,300,31,High,Cloudy,33,0
+2026-06-19 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,155,43,Medium,Rainy,30,11
+2026-06-19 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,115,40,Medium,Sunny,35,0
+2026-06-19 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,132,48,Medium,Cloudy,31,0
+2026-06-19 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,105,43,Medium,Rainy,25,6
+2026-06-19 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,156,44,Medium,Sunny,30,0
+2026-06-19 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,179,40,Medium,Cloudy,28,0
+2026-06-19 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,248,25,High,Sunny,34,0
+2026-06-19 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,289,19,High,Rainy,26,6
+2026-06-19 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,188,34,High,Rainy,36,17
+2026-06-19 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,231,26,High,Sunny,29,0
+2026-06-19 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,61,61,Low,Sunny,24,0
+2026-06-19 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,62,62,Low,Sunny,37,0
+2026-06-19 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,78,61,Low,Sunny,24,0
+2026-06-20 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,54,55,Low,Cloudy,30,0
+2026-06-20 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,39,54,Low,Cloudy,26,0
+2026-06-20 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,60,64,Low,Cloudy,26,0
+2026-06-20 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,34,68,Low,Sunny,31,0
+2026-06-20 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,37,64,Low,Rainy,36,3
+2026-06-20 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,59,65,Low,Cloudy,33,0
+2026-06-20 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,85,59,Low,Rainy,34,14
+2026-06-20 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,204,28,High,Rainy,28,19
+2026-06-20 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,180,27,High,Cloudy,27,0
+2026-06-20 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,189,27,High,Cloudy,32,0
+2026-06-20 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,320,30,High,Rainy,26,5
+2026-06-20 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,104,37,Medium,Rainy,33,12
+2026-06-20 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,103,38,Medium,Cloudy,32,0
+2026-06-20 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,112,50,Medium,Sunny,31,0
+2026-06-20 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,167,41,Medium,Sunny,35,0
+2026-06-20 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,108,36,Medium,Rainy,31,6
+2026-06-20 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,113,42,Medium,Rainy,27,12
+2026-06-20 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,246,22,High,Sunny,28,0
+2026-06-20 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,310,33,High,Sunny,37,0
+2026-06-20 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,225,19,High,Cloudy,34,0
+2026-06-20 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,225,31,High,Cloudy,24,0
+2026-06-20 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,65,51,Low,Cloudy,33,0
+2026-06-20 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,48,51,Low,Cloudy,25,0
+2026-06-20 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,55,64,Low,Rainy,30,13
+2026-06-21 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,56,64,Low,Sunny,32,0
+2026-06-21 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,52,56,Low,Rainy,30,12
+2026-06-21 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,38,63,Low,Rainy,30,14
+2026-06-21 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,34,55,Low,Cloudy,34,0
+2026-06-21 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,67,52,Low,Rainy,38,12
+2026-06-21 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,31,60,Low,Cloudy,26,0
+2026-06-21 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,63,58,Low,Sunny,35,0
+2026-06-21 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,248,28,High,Sunny,26,0
+2026-06-21 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,284,24,High,Sunny,35,0
+2026-06-21 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,271,25,High,Rainy,34,5
+2026-06-21 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,265,24,High,Cloudy,29,0
+2026-06-21 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,155,49,Medium,Cloudy,30,0
+2026-06-21 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,173,41,Medium,Cloudy,30,0
+2026-06-21 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,110,43,Medium,Sunny,36,0
+2026-06-21 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,125,44,Medium,Rainy,26,15
+2026-06-21 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,127,50,Medium,Cloudy,32,0
+2026-06-21 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,156,47,Medium,Rainy,30,5
+2026-06-21 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,224,18,High,Rainy,25,1
+2026-06-21 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,183,19,High,Cloudy,25,0
+2026-06-21 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,251,18,High,Rainy,37,2
+2026-06-21 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,212,21,High,Cloudy,29,0
+2026-06-21 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,42,60,Low,Sunny,37,0
+2026-06-21 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,45,68,Low,Sunny,31,0
+2026-06-21 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,73,64,Low,Sunny,28,0
+2026-06-22 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,77,66,Low,Rainy,37,5
+2026-06-22 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,90,56,Low,Rainy,31,17
+2026-06-22 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,69,67,Low,Cloudy,26,0
+2026-06-22 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,80,59,Low,Sunny,27,0
+2026-06-22 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,60,67,Low,Cloudy,30,0
+2026-06-22 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,39,54,Low,Sunny,27,0
+2026-06-22 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,50,57,Low,Sunny,30,0
+2026-06-22 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,259,31,High,Sunny,26,0
+2026-06-22 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,316,25,High,Sunny,31,0
+2026-06-22 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,317,27,High,Sunny,25,0
+2026-06-22 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,307,28,High,Cloudy,25,0
+2026-06-22 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,107,38,Medium,Sunny,25,0
+2026-06-22 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,110,43,Medium,Sunny,24,0
+2026-06-22 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,158,41,Medium,Sunny,30,0
+2026-06-22 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,168,48,Medium,Sunny,31,0
+2026-06-22 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,136,40,Medium,Cloudy,38,0
+2026-06-22 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,173,50,Medium,Cloudy,25,0
+2026-06-22 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,249,25,High,Rainy,24,19
+2026-06-22 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,236,33,High,Cloudy,25,0
+2026-06-22 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,219,31,High,Sunny,29,0
+2026-06-22 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,223,21,High,Sunny,33,0
+2026-06-22 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,36,65,Low,Sunny,24,0
+2026-06-22 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,73,60,Low,Cloudy,28,0
+2026-06-22 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,90,59,Low,Cloudy,38,0
+2026-06-23 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,74,60,Low,Cloudy,24,0
+2026-06-23 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,44,61,Low,Rainy,37,20
+2026-06-23 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,86,62,Low,Sunny,30,0
+2026-06-23 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,61,70,Low,Cloudy,24,0
+2026-06-23 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,44,65,Low,Sunny,29,0
+2026-06-23 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,80,53,Low,Rainy,28,15
+2026-06-23 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,63,67,Low,Rainy,31,1
+2026-06-23 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,241,25,High,Rainy,33,17
+2026-06-23 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,318,21,High,Cloudy,24,0
+2026-06-23 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,241,28,High,Rainy,37,16
+2026-06-23 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,266,23,High,Cloudy,34,0
+2026-06-23 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,104,45,Medium,Sunny,38,0
+2026-06-23 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,155,35,Medium,Sunny,30,0
+2026-06-23 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,176,45,Medium,Cloudy,36,0
+2026-06-23 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,101,35,Medium,Rainy,36,14
+2026-06-23 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,107,38,Medium,Sunny,31,0
+2026-06-23 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,153,35,Medium,Rainy,26,10
+2026-06-23 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,197,25,High,Rainy,35,20
+2026-06-23 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,295,33,High,Cloudy,24,0
+2026-06-23 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,277,30,High,Rainy,28,19
+2026-06-23 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,233,22,High,Cloudy,29,0
+2026-06-23 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,48,69,Low,Cloudy,34,0
+2026-06-23 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,43,58,Low,Cloudy,31,0
+2026-06-23 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,61,55,Low,Cloudy,34,0
+2026-06-24 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,30,66,Low,Rainy,37,13
+2026-06-24 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,45,59,Low,Rainy,35,13
+2026-06-24 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,72,57,Low,Cloudy,37,0
+2026-06-24 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,40,61,Low,Rainy,26,8
+2026-06-24 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,79,69,Low,Cloudy,29,0
+2026-06-24 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,37,52,Low,Sunny,27,0
+2026-06-24 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,65,66,Low,Sunny,37,0
+2026-06-24 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,258,19,High,Rainy,37,2
+2026-06-24 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,313,27,High,Sunny,28,0
+2026-06-24 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,250,25,High,Cloudy,32,0
+2026-06-24 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,256,31,High,Rainy,31,6
+2026-06-24 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,163,43,Medium,Cloudy,33,0
+2026-06-24 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,112,47,Medium,Cloudy,36,0
+2026-06-24 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,131,48,Medium,Sunny,38,0
+2026-06-24 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,146,49,Medium,Sunny,36,0
+2026-06-24 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,163,37,Medium,Sunny,36,0
+2026-06-24 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,130,50,Medium,Sunny,33,0
+2026-06-24 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,306,18,High,Rainy,36,7
+2026-06-24 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,263,25,High,Rainy,30,5
+2026-06-24 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,296,29,High,Sunny,34,0
+2026-06-24 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,198,18,High,Rainy,32,6
+2026-06-24 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,34,63,Low,Cloudy,31,0
+2026-06-24 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,37,61,Low,Cloudy,36,0
+2026-06-24 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,30,52,Low,Rainy,27,17
+2026-06-25 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,83,62,Low,Rainy,35,20
+2026-06-25 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,35,60,Low,Sunny,37,0
+2026-06-25 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,30,64,Low,Cloudy,29,0
+2026-06-25 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,64,63,Low,Sunny,28,0
+2026-06-25 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,57,50,Low,Sunny,25,0
+2026-06-25 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,40,66,Low,Sunny,34,0
+2026-06-25 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,83,55,Low,Sunny,36,0
+2026-06-25 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,189,28,High,Cloudy,26,0
+2026-06-25 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,243,27,High,Sunny,38,0
+2026-06-25 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,240,18,High,Sunny,32,0
+2026-06-25 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,240,22,High,Cloudy,35,0
+2026-06-25 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,139,38,Medium,Cloudy,30,0
+2026-06-25 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,150,49,Medium,Rainy,34,7
+2026-06-25 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,123,39,Medium,Sunny,26,0
+2026-06-25 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,138,45,Medium,Cloudy,35,0
+2026-06-25 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,138,45,Medium,Sunny,33,0
+2026-06-25 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,128,49,Medium,Sunny,33,0
+2026-06-25 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,279,21,High,Sunny,29,0
+2026-06-25 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,287,18,High,Rainy,37,7
+2026-06-25 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,191,29,High,Sunny,34,0
+2026-06-25 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,319,27,High,Cloudy,35,0
+2026-06-25 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,41,67,Low,Sunny,37,0
+2026-06-25 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,56,61,Low,Cloudy,32,0
+2026-06-25 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,90,55,Low,Cloudy,25,0
+2026-06-26 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,58,68,Low,Cloudy,37,0
+2026-06-26 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,78,67,Low,Rainy,27,17
+2026-06-26 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,54,51,Low,Rainy,35,15
+2026-06-26 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,86,64,Low,Rainy,24,17
+2026-06-26 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,69,55,Low,Cloudy,27,0
+2026-06-26 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,73,54,Low,Cloudy,34,0
+2026-06-26 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,68,52,Low,Sunny,37,0
+2026-06-26 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,201,29,High,Rainy,24,17
+2026-06-26 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,180,31,High,Rainy,35,19
+2026-06-26 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,304,25,High,Sunny,25,0
+2026-06-26 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,204,23,High,Cloudy,28,0
+2026-06-26 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,113,49,Medium,Rainy,30,9
+2026-06-26 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,123,50,Medium,Rainy,28,10
+2026-06-26 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,163,50,Medium,Sunny,31,0
+2026-06-26 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,144,48,Medium,Cloudy,26,0
+2026-06-26 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,170,37,Medium,Rainy,29,9
+2026-06-26 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,122,45,Medium,Cloudy,27,0
+2026-06-26 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,180,27,High,Rainy,33,3
+2026-06-26 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,305,19,High,Cloudy,31,0
+2026-06-26 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,255,33,High,Rainy,35,14
+2026-06-26 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,319,27,High,Sunny,29,0
+2026-06-26 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,36,67,Low,Cloudy,37,0
+2026-06-26 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,67,70,Low,Cloudy,32,0
+2026-06-26 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,57,51,Low,Sunny,31,0
+2026-06-27 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,58,61,Low,Cloudy,36,0
+2026-06-27 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,54,59,Low,Rainy,24,4
+2026-06-27 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,51,64,Low,Cloudy,36,0
+2026-06-27 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,78,63,Low,Rainy,34,12
+2026-06-27 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,81,62,Low,Sunny,37,0
+2026-06-27 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,43,60,Low,Sunny,33,0
+2026-06-27 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,62,54,Low,Rainy,36,7
+2026-06-27 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,272,21,High,Sunny,35,0
+2026-06-27 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,318,19,High,Sunny,32,0
+2026-06-27 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,239,34,High,Cloudy,28,0
+2026-06-27 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,181,24,High,Cloudy,26,0
+2026-06-27 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,114,38,Medium,Cloudy,28,0
+2026-06-27 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,128,39,Medium,Cloudy,26,0
+2026-06-27 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,168,45,Medium,Cloudy,31,0
+2026-06-27 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,150,44,Medium,Rainy,32,15
+2026-06-27 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,152,47,Medium,Cloudy,26,0
+2026-06-27 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,178,49,Medium,Cloudy,36,0
+2026-06-27 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,247,25,High,Cloudy,26,0
+2026-06-27 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,192,29,High,Sunny,31,0
+2026-06-27 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,272,23,High,Rainy,26,15
+2026-06-27 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,273,35,High,Sunny,26,0
+2026-06-27 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,81,56,Low,Sunny,27,0
+2026-06-27 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,33,65,Low,Rainy,38,3
+2026-06-27 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,46,56,Low,Cloudy,37,0
+2026-06-28 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,48,63,Low,Sunny,29,0
+2026-06-28 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,77,62,Low,Sunny,24,0
+2026-06-28 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,52,58,Low,Cloudy,32,0
+2026-06-28 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,87,66,Low,Sunny,30,0
+2026-06-28 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,43,66,Low,Cloudy,29,0
+2026-06-28 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,57,50,Low,Cloudy,28,0
+2026-06-28 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,35,53,Low,Cloudy,36,0
+2026-06-28 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,267,29,High,Sunny,33,0
+2026-06-28 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,257,26,High,Cloudy,30,0
+2026-06-28 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,240,23,High,Rainy,33,7
+2026-06-28 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,254,29,High,Rainy,38,4
+2026-06-28 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,150,42,Medium,Rainy,28,10
+2026-06-28 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,108,47,Medium,Sunny,32,0
+2026-06-28 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,172,45,Medium,Sunny,24,0
+2026-06-28 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,137,40,Medium,Sunny,33,0
+2026-06-28 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,132,41,Medium,Cloudy,37,0
+2026-06-28 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,149,44,Medium,Sunny,34,0
+2026-06-28 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,184,25,High,Rainy,34,5
+2026-06-28 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,293,19,High,Rainy,29,14
+2026-06-28 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,268,31,High,Sunny,35,0
+2026-06-28 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,221,33,High,Cloudy,37,0
+2026-06-28 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,63,66,Low,Cloudy,38,0
+2026-06-28 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,48,56,Low,Rainy,34,1
+2026-06-28 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,86,66,Low,Cloudy,36,0
+2026-06-29 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,79,54,Low,Rainy,27,18
+2026-06-29 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,78,67,Low,Sunny,28,0
+2026-06-29 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,88,67,Low,Rainy,25,12
+2026-06-29 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,63,57,Low,Cloudy,25,0
+2026-06-29 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,36,67,Low,Sunny,32,0
+2026-06-29 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,61,69,Low,Sunny,26,0
+2026-06-29 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,53,53,Low,Sunny,37,0
+2026-06-29 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,246,18,High,Rainy,28,20
+2026-06-29 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,244,26,High,Cloudy,33,0
+2026-06-29 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,245,26,High,Cloudy,33,0
+2026-06-29 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,184,18,High,Sunny,35,0
+2026-06-29 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,160,44,Medium,Cloudy,26,0
+2026-06-29 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,130,50,Medium,Cloudy,28,0
+2026-06-29 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,178,42,Medium,Sunny,36,0
+2026-06-29 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,139,47,Medium,Sunny,33,0
+2026-06-29 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,152,42,Medium,Cloudy,27,0
+2026-06-29 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,176,43,Medium,Rainy,31,16
+2026-06-29 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,209,21,High,Sunny,36,0
+2026-06-29 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,224,21,High,Sunny,34,0
+2026-06-29 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,183,22,High,Cloudy,32,0
+2026-06-29 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,248,33,High,Cloudy,38,0
+2026-06-29 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,88,67,Low,Sunny,27,0
+2026-06-29 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,79,51,Low,Rainy,31,5
+2026-06-29 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,54,60,Low,Cloudy,34,0
+2026-06-30 00:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,80,52,Low,Sunny,33,0
+2026-06-30 01:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,69,51,Low,Sunny,24,0
+2026-06-30 02:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,76,51,Low,Sunny,33,0
+2026-06-30 03:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,82,68,Low,Sunny,27,0
+2026-06-30 04:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,73,59,Low,Sunny,24,0
+2026-06-30 05:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,78,65,Low,Cloudy,38,0
+2026-06-30 06:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,38,65,Low,Cloudy,29,0
+2026-06-30 07:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,297,25,High,Rainy,26,9
+2026-06-30 08:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,238,35,High,Sunny,37,0
+2026-06-30 09:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,264,27,High,Sunny,30,0
+2026-06-30 10:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,234,35,High,Cloudy,29,0
+2026-06-30 11:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,102,35,Medium,Sunny,28,0
+2026-06-30 12:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,174,50,Medium,Rainy,27,17
+2026-06-30 13:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,142,37,Medium,Rainy,37,16
+2026-06-30 14:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,103,46,Medium,Cloudy,24,0
+2026-06-30 15:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,124,43,Medium,Sunny,38,0
+2026-06-30 16:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,146,38,Medium,Rainy,37,17
+2026-06-30 17:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,183,21,High,Sunny,33,0
+2026-06-30 18:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,225,24,High,Sunny,24,0
+2026-06-30 19:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,203,33,High,Cloudy,26,0
+2026-06-30 20:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,219,27,High,Cloudy,35,0
+2026-06-30 21:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,82,50,Low,Rainy,26,5
+2026-06-30 22:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,32,52,Low,Sunny,36,0
+2026-06-30 23:00:00,3,R003,Koyambedu,Airport,19.8,Chennai,86,65,Low,Cloudy,30,0
